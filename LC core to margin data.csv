@@ -1,0 +1,1199 @@
+﻿Spot No,Spot No,Source file,Fish code,My code,Region,My site,Na23_ppm,Mg24_ppm,Ni60_ppm,Cu63_ppm,Sr88_ppm,Ba137_ppm
+1,core,Bb - 1.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),3093,50.00,0.169,0.674,1950,9.28
+2,2,Bb - 2.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),2609,24.49,0.178,0.275,1876,1.96
+3,3,Bb - 3.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),2815,35.45,0.189,0.353,2181,6.89
+4,4,Bb - 4.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),2270,20.40,0.165,0.253,2079,2.98
+5,5,Bb - 5.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),1783,12.36,0.188,0.173,2374,2.04
+6,6,Bb - 6.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),1721,10.39,0.224,0.168,2983,2.83
+7,7,Bb - 7.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),1649,10.95,0.178,0.203,3227,3.14
+8,8,Bb - 8.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),1575,11.15,0.174,0.215,3411,3.20
+9,margin,Bb - 9.d,LC 15-08-05_01,BA1,Kimberley,Bigge Island E (5/6),2243,13.93,0.186,0.229,2999,3.09
+1,core,Dc - 1.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),3186,44.64,0.159,0.938,1907,5.00
+2,2,Dc - 2.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),2883,40.81,0.171,0.317,1806,7.72
+3,3,Dc - 3.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),2888,41.90,0.157,0.304,1520,1.56
+4,4,Dc - 4.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),2507,31.15,0.160,0.209,1924,1.97
+5,5,Dc - 5.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),2150,18.41,0.163,0.239,2357,3.14
+6,6,Dc - 6.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),1846,14.72,0.190,0.222,3261,3.54
+7,7,Dc - 7.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),1832,14.32,0.182,0.314,3431,3.23
+8,8,Dc - 8.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),1847,13.54,0.184,0.186,4124,4.39
+9,9,Dc - 9.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),1940,14.91,0.187,0.319,3601,3.97
+10,10,Dc - 10.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),1944,13.71,0.153,0.594,4408,4.52
+11,11,Dc - 11.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),2050,14.35,0.185,0.371,4096,4.14
+12,margin,Dc - 12.d,LC 15-08-05_02,BA2,Kimberley,Bigge Island E (5/6),2119,14.26,0.179,0.457,4459,4.78
+1,core,Gb - 1.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),3280,46.73,0.161,0.320,1984,1.74
+2,2,Gb - 2.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1889,14.06,0.190,0.236,3106,3.12
+3,3,Gb - 3.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),2043,14.62,0.206,0.155,3015,2.31
+4,4,Gb - 4.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1865,11.67,0.162,0.174,3867,2.67
+5,5,Gb - 5.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1757,14.14,0.159,0.227,3542,3.38
+6,6,Gb - 6.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1648,11.18,0.143,0.191,3966,3.08
+7,7,Gb - 7.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1693,12.64,0.185,0.250,3877,2.87
+8,8,Gb - 8.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1666,11.28,0.186,0.249,3898,2.61
+9,margin,Gb - 9.d,LC 15-08-05_03,BA3,Kimberley,Bigge Island E (5/6),1688,29.29,0.378,0.548,4017,3.16
+1,core,Ea - 1.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),3227,53.80,0.242,0.753,1939,7.48
+2,2,Ea - 2.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),2485,26.04,0.196,0.187,2065,17.81
+3,3,Ea - 3.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),2325,21.23,0.169,0.177,2196,8.20
+4,4,Ea - 4.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),2250,17.40,0.177,0.203,2257,6.09
+5,5,Ea - 5.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),2259,19.86,0.187,0.182,2089,3.44
+6,6,Ea - 6.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1908,13.54,0.168,0.153,2290,3.75
+7,7,Ea - 7.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1817,12.58,0.162,0.150,2383,3.25
+8,8,Ea - 8.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1594,11.38,0.151,0.158,2682,2.37
+9,9,Ea - 9.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1391,10.01,0.176,0.302,3333,3.26
+10,10,Ea - 10.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1342,9.76,0.177,0.240,3889,3.71
+11,11,Ea - 11.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1325,9.26,0.153,0.123,3336,3.07
+12,12,Ea - 12.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1326,9.59,0.187,0.240,3198,2.50
+13,13,Ea - 13.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1274,9.46,0.171,0.237,3253,2.78
+14,14,Ea - 14.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1274,9.21,0.178,0.154,3128,2.54
+15,15,Ea - 15.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1306,9.22,0.178,0.259,3574,3.24
+16,16,Ea - 16.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1309,9.61,0.188,0.207,3880,3.20
+17,17,Ea - 17.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1289,10.57,0.161,0.209,3820,2.81
+18,margin,Ea - 18.d,LC 15-08-07_01,BB1,Kimberley,Bigge Island E (6/6),1226,24.70,0.308,3.430,3811,3.22
+1,core,Je - 1.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),2936,27.89,0.185,0.313,2124,10.19
+2,2,Je - 2.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),2199,12.29,0.180,0.194,3014,3.68
+3,3,Je - 3.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),2318,12.22,0.167,0.173,2677,2.73
+4,4,Je - 4.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),2137,11.31,0.210,0.170,2816,2.47
+5,5,Je - 5.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),1975,11.46,0.185,0.215,2791,1.77
+6,6,Je - 6.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),1837,11.71,0.191,0.213,2923,1.98
+7,7,Je - 7.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),1792,10.85,0.193,0.204,3350,3.78
+8,8,Je - 8.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),1812,10.61,0.173,0.202,3374,3.58
+9,9,Je - 9.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),1778,15.87,0.282,1.420,3345,3.73
+10,margin,Je - 10.d,LC 15-08-07_02,BB2,Kimberley,Bigge Island E (6/6),1560,26.69,0.454,2.840,3152,3.59
+1,core,Ad - 1.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),3190,42.70,0.233,0.985,2138,12.39
+2,2,Ad - 2.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),2507,31.53,0.192,0.272,2131,5.33
+3,3,Ad - 3.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),2425,26.03,0.204,0.289,2561,2.73
+4,4,Ad - 4.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),2436,21.98,0.217,0.255,2310,1.84
+5,5,Ad - 5.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1680,12.73,0.195,0.343,3199,2.90
+6,6,Ad - 6.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1510,9.88,0.163,0.209,3376,3.56
+7,7,Ad - 7.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1405,10.12,0.193,0.196,2980,3.05
+8,8,Ad - 8.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1487,10.12,0.195,0.195,3345,3.49
+9,9,Ad - 9.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1526,10.03,0.204,0.303,3769,4.53
+10,10,Ad - 10.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1497,9.62,0.212,0.313,3764,3.69
+11,11,Ad - 11.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1550,11.12,0.215,0.414,3651,3.93
+12,margin,Ad - 12.d,LC 15-08-07_03,BB3,Kimberley,Bigge Island E (6/6),1557,10.97,0.211,0.323,3511,3.80
+1,core,Ba - 1.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),3334,53.10,0.214,0.897,1983,3.65
+2,2,Ba - 2.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2753,38.08,0.227,0.391,1924,8.36
+3,3,Ba - 3.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2044,23.28,0.161,0.160,2055,2.68
+4,4,Ba - 4.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2433,34.73,0.197,0.192,1757,2.86
+5,5,Ba - 5.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2389,23.30,0.216,0.262,2235,3.63
+6,6,Ba - 6.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2310,17.25,0.189,0.238,2187,3.23
+7,7,Ba - 7.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2159,13.86,0.229,0.203,2160,1.96
+8,8,Ba - 8.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2362,13.66,0.183,0.250,2473,2.72
+9,9,Ba - 9.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2244,18.31,0.215,0.373,2939,3.24
+10,10,Ba - 10.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),1874,13.04,0.246,0.250,2594,2.79
+11,11,Ba - 11.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2042,13.62,0.175,0.276,2995,3.56
+12,12,Ba - 12.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),1526,9.78,0.209,0.123,2584,2.78
+13,13,Ba - 13.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),1671,11.22,0.206,0.209,2929,3.65
+14,margin,Ba - 14.d,LC 15-08-07_05,BB4,Kimberley,Bigge Island E (6/6),2010,19.40,0.192,0.335,2719,3.51
+1,core,Ab - 1.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,3845,113.50,0.295,1.619,1660,3.61
+2,2,Ab - 2.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,2773,25.85,0.222,0.203,2090,22.28
+3,3,Ab - 3.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,2542,26.95,0.216,0.215,1834,4.79
+4,4,Ab - 4.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,2405,19.62,0.196,0.180,1388,1.50
+5,5,Ab - 5.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,1985,13.19,0.195,0.222,1872,1.42
+6,6,Ab - 6.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,1700,14.82,0.202,0.148,2291,1.56
+7,7,Ab - 7.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,1774,17.73,0.210,0.235,2386,1.62
+8,margin,Ab - 8.d,LC-SB1-01,BN1,Gascoyne,Bernier Island,2427,13.93,0.208,0.295,2492,1.98
+1,core,Af - 1.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,3775,57.80,0.209,0.688,1690,1.55
+2,2,Af - 2.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,2959,34.13,0.182,0.388,1660,3.42
+3,3,Af - 3.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,3202,34.86,0.206,0.530,1526,1.71
+4,4,Af - 4.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,2802,22.59,0.194,0.301,1683,2.69
+5,5,Af - 5.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,2667,22.20,0.190,0.320,1894,1.65
+6,6,Af - 6.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,1994,11.85,0.197,0.187,2267,1.96
+7,margin,Af - 7.d,LC-SB1-12,BN2,Gascoyne,Bernier Island,2040,15.60,0.192,0.354,2650,1.84
+1,core,Ha - 1.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,3185,44.23,0.182,0.518,2036,1.27
+2,2,Ha - 2.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,3074,28.19,0.202,0.799,1655,0.79
+3,3,Ha - 3.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,2428,14.26,0.182,0.397,2233,1.25
+4,4,Ha - 4.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,2407,15.95,0.190,0.426,2196,2.63
+5,5,Ha - 5.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,1934,14.35,0.181,0.651,2749,2.08
+6,6,Ha - 6.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,1882,14.00,0.198,0.479,2895,2.13
+7,7,Ha - 7.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,1772,13.95,0.170,0.586,3422,2.51
+8,8,Ha - 8.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,1823,15.88,0.194,0.490,3075,2.09
+9,margin,Ha - 9.d,LC-SB1-13,BN3,Gascoyne,Bernier Island,1760,19.83,0.178,0.730,3122,2.75
+1,core,De - 1.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,3474,50.90,0.200,0.560,1981,6.00
+2,2,De - 2.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,3153,56.90,0.175,0.201,1889,13.39
+3,3,De - 3.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,2506,24.76,0.202,0.234,1692,1.41
+4,4,De - 4.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,2532,20.05,0.183,0.184,1727,1.32
+5,5,De - 5.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,2189,15.18,0.184,0.179,1919,1.33
+6,6,De - 6.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,1996,12.96,0.152,0.157,2008,1.34
+7,margin,De - 7.d,LC-SB1-16,BN4,Gascoyne,Bernier Island,2396,13.53,0.184,0.246,2229,1.51
+1,core,Kb - 1.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,3575,94.50,0.610,1.230,2246,13.85
+2,2,Kb - 2.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,2862,61.10,0.461,0.800,2337,3.14
+3,3,Kb - 3.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,1957,28.52,0.297,0.472,2900,3.31
+4,4,Kb - 4.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,1867,28.06,0.252,0.448,3015,2.85
+5,5,Kb - 5.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,1827,35.49,0.273,0.579,3011,2.89
+6,6,Kb - 6.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,1806,39.68,0.283,0.622,3130,2.26
+7,margin,Kb - 7.d,LC-EX2-01,BR1,Gascoyne,Bay of Rest,1727,45.70,0.283,0.678,3184,2.62
+1,core,Ec - 1.d,LC-EX2-12,BR2,Gascoyne,Bay of Rest,3568,116.30,0.232,0.833,1745,4.23
+2,2,Ec - 2.d,LC-EX2-12,BR2,Gascoyne,Bay of Rest,2829,39.72,0.197,0.377,2602,2.59
+3,3,Ec - 3.d,LC-EX2-12,BR2,Gascoyne,Bay of Rest,2352,27.15,0.163,0.250,2455,2.32
+4,4,Ec - 4.d,LC-EX2-12,BR2,Gascoyne,Bay of Rest,2072,43.07,0.205,0.271,2767,1.97
+5,margin,Ec - 5.d,LC-EX2-12,BR2,Gascoyne,Bay of Rest,2008,56.80,0.164,0.389,3269,2.76
+1,core,If - 1.d,LC-EX2-13,BR3,Gascoyne,Bay of Rest,3861,141.80,0.216,1.277,2037,1.96
+2,2,If - 2.d,LC-EX2-13,BR3,Gascoyne,Bay of Rest,2694,23.59,0.190,0.225,1917,7.58
+3,3,If - 3.d,LC-EX2-13,BR3,Gascoyne,Bay of Rest,2172,16.68,0.163,0.201,2194,4.11
+4,4,If - 4.d,LC-EX2-13,BR3,Gascoyne,Bay of Rest,2271,16.20,0.143,0.248,1978,4.03
+5,margin,If - 5.d,LC-EX2-13,BR3,Gascoyne,Bay of Rest,1902,27.97,0.199,0.545,2470,3.49
+1,core,Bd - 1.d,LC-EX2-16,BR4,Gascoyne,Bay of Rest,4046,87.70,0.283,0.685,2069,3.88
+2,2,Bd - 2.d,LC-EX2-16,BR4,Gascoyne,Bay of Rest,3122,39.71,0.293,0.411,1598,3.37
+3,3,Bd - 3.d,LC-EX2-16,BR4,Gascoyne,Bay of Rest,2516,19.35,0.158,0.213,1848,2.30
+4,4,Bd - 4.d,LC-EX2-16,BR4,Gascoyne,Bay of Rest,2134,18.89,0.185,0.287,2310,3.14
+5,margin,Bd - 5.d,LC-EX2-16,BR4,Gascoyne,Bay of Rest,2743,27.10,0.224,0.322,2079,3.05
+1,core,Slide23 -CK1 - 01.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),2954,45.36,0.032,0.176,1736,5.25
+2,2,Slide23 -CK1 - 02.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),2171,13.59,0.030,0.137,2056,3.86
+3,3,Slide23 -CK1 - 03.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1926,10.00,0.033,0.079,2012,1.99
+4,4,Slide23 -CK1 - 04.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1514,8.07,0.049,0.074,2490,1.95
+5,5,Slide23 -CK1 - 05.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1427,6.78,0.027,0.090,2896,2.33
+6,6,Slide23 -CK1 - 06.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1373,6.68,0.032,0.078,2958,2.57
+7,7,Slide23 -CK1 - 07.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1308,6.56,0.032,0.082,3058,3.33
+8,8,Slide23 -CK1 - 08.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1416,6.52,0.035,0.086,2741,2.45
+9,9,Slide23 -CK1 - 09.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1496,6.55,0.041,0.088,2834,2.43
+10,10,Slide23 -CK1 - 10.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1443,6.65,0.041,0.095,3209,3.04
+11,11,Slide23 -CK1 - 11.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1447,6.54,0.040,0.073,2942,2.67
+12,margin,Slide23 -CK1 - 12.d,LC 020334,CK1,Pilbara,Cape Keraudren (1/2),1377,7.74,0.045,0.098,3392,2.49
+1,core,Slide22 -CK2 - 01.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),3008,37.41,0.025,0.343,1543,31.60
+2,2,Slide22 -CK2 - 02.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),2408,21.31,0.044,0.129,1692,17.89
+3,3,Slide22 -CK2 - 03.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),2168,17.49,0.028,0.126,1725,4.23
+4,4,Slide22 -CK2 - 04.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),2054,17.88,0.033,0.107,1784,2.76
+5,5,Slide22 -CK2 - 05.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),1923,14.05,0.044,0.090,2164,2.49
+6,6,Slide22 -CK2 - 06.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),1986,16.74,0.028,0.111,2458,2.42
+7,7,Slide22 -CK2 - 07.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),1794,15.30,0.045,0.107,2356,3.51
+8,8,Slide22 -CK2 - 08.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),1877,34.78,0.032,0.108,2489,2.65
+9,margin,Slide22 -CK2 - 09.d,LC 020337,CK2,Pilbara,Cape Keraudren (1/2),1867,32.93,0.028,0.128,2480,2.43
+1,core,Slide23 -CK3 - 01.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),3442,50.60,0.037,0.208,1570,6.22
+2,2,Slide23 -CK3 - 02.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),2565,23.02,0.032,0.118,1984,1.97
+3,3,Slide23 -CK3 - 03.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1960,30.99,0.039,0.108,2164,1.54
+4,4,Slide23 -CK3 - 04.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1689,29.60,0.035,0.097,2584,1.83
+5,5,Slide23 -CK3 - 05.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1621,34.10,0.043,0.097,2652,1.72
+6,6,Slide23 -CK3 - 06.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1606,35.68,0.039,0.096,3004,1.84
+7,7,Slide23 -CK3 - 07.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1686,48.78,0.030,0.109,3417,2.05
+8,8,Slide23 -CK3 - 08.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1606,60.30,0.044,0.110,3130,2.35
+9,margin,Slide23 -CK3 - 09.d,LC 020323,CK3,Pilbara,Cape Keraudren (1/2),1570,95.30,0.035,0.139,3050,2.31
+1,core,Slide20 -CK4 - 01.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),3293,72.50,0.099,0.421,2241,23.60
+2,2,Slide20 -CK4 - 02.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),2160,15.15,0.043,0.114,2059,5.38
+3,3,Slide20 -CK4 - 03.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1790,8.62,0.032,0.093,2320,3.19
+4,4,Slide20 -CK4 - 04.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),2015,11.67,0.025,0.088,1867,6.20
+5,5,Slide20 -CK4 - 05.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1871,12.65,0.031,0.081,1895,2.99
+6,6,Slide20 -CK4 - 06.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1752,12.43,0.041,0.070,2060,1.76
+7,7,Slide20 -CK4 - 07.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1675,9.24,0.038,0.055,2433,1.93
+8,8,Slide20 -CK4 - 08.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1732,10.60,0.039,0.077,2526,2.33
+9,9,Slide20 -CK4 - 09.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1637,7.58,0.046,0.058,3587,4.66
+10,10,Slide20 -CK4 - 10.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1735,9.98,0.043,0.070,2942,2.41
+11,11,Slide20 -CK4 - 11.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1532,8.57,0.042,0.092,3867,3.54
+12,margin,Slide20 -CK4 - 12.d,LC 020324,CK4,Pilbara,Cape Keraudren (1/2),1476,9.78,0.043,0.085,3612,3.15
+1,core,Slide23 -CL1 - 01.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),3064,45.91,0.038,1.413,2077,2.51
+2,2,Slide23 -CL1 - 02.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),2279,15.66,0.036,0.218,1990,25.16
+3,3,Slide23 -CL1 - 03.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1989,13.64,0.044,0.193,2123,6.86
+4,4,Slide23 -CL1 - 04.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1904,10.49,0.041,0.234,2308,3.60
+5,5,Slide23 -CL1 - 05.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1837,8.18,0.044,0.284,2457,4.21
+6,6,Slide23 -CL1 - 06.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1734,8.48,0.043,0.275,2354,3.11
+7,7,Slide23 -CL1 - 07.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1552,6.51,0.044,0.282,3064,4.86
+8,8,Slide23 -CL1 - 08.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1568,6.68,0.039,0.324,2964,3.26
+9,9,Slide23 -CL1 - 09.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1512,6.32,0.045,0.580,2864,2.57
+10,10,Slide23 -CL1 - 10.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1533,6.81,0.042,0.848,3167,3.66
+11,margin,Slide23 -CL1 - 11.d,LC 15-08-08_01,CL1,Kimberley,Bigge Island N (2/5),1510,7.57,0.052,1.040,3093,3.28
+1,core,Slide21 -CL2 - 01.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),2726,38.33,0.044,0.123,1950,13.70
+2,2,Slide21 -CL2 - 02.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1634,6.82,0.045,0.163,2842,2.50
+3,3,Slide21 -CL2 - 03.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1583,8.12,0.032,0.070,2678,2.84
+4,4,Slide21 -CL2 - 04.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1405,5.97,0.034,0.083,3258,2.81
+5,5,Slide21 -CL2 - 05.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1491,6.61,0.031,0.072,2759,2.35
+6,6,Slide21 -CL2 - 06.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1532,6.77,0.032,0.071,2925,1.92
+7,7,Slide21 -CL2 - 07.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1578,7.17,0.037,0.066,2734,2.14
+8,8,Slide21 -CL2 - 08.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1514,6.99,0.037,0.063,2703,2.59
+9,9,Slide21 -CL2 - 09.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1435,6.72,0.041,0.076,3099,3.40
+10,margin,Slide21 -CL2 - 10.d,LC 15-08-08_02,CL2,Kimberley,Bigge Island N (2/5),1561,6.66,0.051,0.090,3142,2.96
+1,core,Slide22 -CL3 - 01.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),3247,45.45,0.064,0.430,1727,3.71
+2,2,Slide22 -CL3 - 02.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),2245,14.99,0.035,0.111,1643,1.88
+3,3,Slide22 -CL3 - 03.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1915,10.48,0.045,0.109,2229,3.05
+4,4,Slide22 -CL3 - 04.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1702,8.12,0.030,0.088,2376,2.19
+5,5,Slide22 -CL3 - 05.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1735,8.61,0.043,0.087,2200,1.83
+6,6,Slide22 -CL3 - 06.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1639,7.14,0.041,0.081,2806,2.40
+7,7,Slide22 -CL3 - 07.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1640,7.71,0.024,0.088,2474,2.16
+8,8,Slide22 -CL3 - 08.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1655,7.35,0.040,0.096,2699,2.30
+9,9,Slide22 -CL3 - 09.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1555,7.14,0.027,0.109,2881,2.52
+10,margin,Slide22 -CL3 - 10.d,LC 15-08-08_03,CL3,Kimberley,Bigge Island N (2/5),1724,7.63,0.047,0.117,2437,2.27
+1,core,Slide22 -CL4 - 01.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),2932,46.83,0.024,0.234,1793,3.59
+2,2,Slide22 -CL4 - 02.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),2288,18.78,0.035,0.109,1584,1.26
+3,3,Slide22 -CL4 - 03.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),2103,16.87,0.035,0.095,1747,2.02
+4,4,Slide22 -CL4 - 04.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1808,12.34,0.036,0.068,1946,2.04
+5,5,Slide22 -CL4 - 05.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1708,9.05,0.036,0.079,2039,2.69
+6,6,Slide22 -CL4 - 06.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1590,8.90,0.040,0.080,2198,2.36
+7,7,Slide22 -CL4 - 07.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1592,10.80,0.030,0.092,1880,1.64
+8,8,Slide22 -CL4 - 08.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1463,8.16,0.035,0.069,2236,1.69
+9,9,Slide22 -CL4 - 09.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1431,7.66,0.036,0.085,2352,2.47
+10,10,Slide22 -CL4 - 10.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1286,6.72,0.041,0.089,2901,2.92
+11,11,Slide22 -CL4 - 11.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1319,7.46,0.038,0.080,2372,1.85
+12,margin,Slide22 -CL4 - 12.d,LC 15-08-08_05,CL4,Kimberley,Bigge Island N (2/5),1268,7.76,0.035,0.132,2606,1.85
+1,core,Slide23 -CP1 - 01.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),3021,34.47,0.039,0.441,1755,4.87
+2,2,Slide23 -CP1 - 02.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1910,13.61,0.036,0.204,1863,1.82
+3,3,Slide23 -CP1 - 03.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1517,12.05,0.047,0.246,2313,1.90
+4,4,Slide23 -CP1 - 04.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1473,10.28,0.040,0.201,3280,3.18
+5,5,Slide23 -CP1 - 05.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1434,13.30,0.039,0.219,2859,2.44
+6,6,Slide23 -CP1 - 06.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1418,14.56,0.035,0.222,3015,2.76
+7,7,Slide23 -CP1 - 07.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1437,20.42,0.031,0.233,2891,2.56
+8,8,Slide23 -CP1 - 08.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1378,21.08,0.054,0.207,3178,3.21
+9,margin,Slide23 -CP1 - 09.d,LC 020304,CP1,Pilbara,Cape Preston (1/5),1374,40.50,0.035,0.225,3010,2.86
+1,core,Slide20 -CF2 - 01.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),2909,43.78,0.031,0.219,1418,2.25
+2,2,Slide20 -CF2 - 02.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),2938,35.67,0.033,0.125,1825,3.00
+3,3,Slide20 -CF2 - 03.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),2198,21.76,0.029,0.470,1977,2.51
+4,4,Slide20 -CF2 - 04.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),2050,12.58,0.028,0.086,2025,1.90
+5,5,Slide20 -CF2 - 05.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),2003,12.59,0.030,0.082,1835,1.64
+6,6,Slide20 -CF2 - 06.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1809,19.65,0.026,0.068,1587,1.46
+7,7,Slide20 -CF2 - 07.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1548,10.59,0.032,0.064,2060,2.36
+8,8,Slide20 -CF2 - 08.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1442,6.97,0.036,0.090,2826,2.27
+9,9,Slide20 -CF2 - 09.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1338,7.35,0.037,0.118,3039,2.76
+10,10,Slide20 -CF2 - 10.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1330,7.91,0.043,0.112,2468,2.33
+11,11,Slide20 -CF2 - 11.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1290,7.99,0.038,0.150,2991,2.71
+12,margin,Slide20 -CF2 - 12.d,LC 020305,CP2,Pilbara,Cape Preston (1/5),1293,9.82,0.049,0.198,2977,2.97
+1,core,Slide23 -CP2 - 01.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),3039,41.80,0.330,1.190,1841,11.80
+2,2,Slide23 -CP2 - 02.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1825,8.42,0.046,0.090,2426,4.55
+3,3,Slide23 -CP2 - 03.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1640,7.67,0.036,0.070,2601,2.30
+4,4,Slide23 -CP2 - 04.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1455,5.65,0.056,0.117,3065,1.92
+5,5,Slide23 -CP2 - 05.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1463,6.06,0.042,0.153,3019,2.03
+6,6,Slide23 -CP2 - 06.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1501,6.00,0.042,0.430,2853,2.05
+7,7,Slide23 -CP2 - 07.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1430,6.01,0.039,0.104,2704,2.01
+8,8,Slide23 -CP2 - 08.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1400,5.79,0.041,0.137,2873,2.26
+9,9,Slide23 -CP2 - 09.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1398,5.78,0.059,0.164,2894,2.27
+10,10,Slide23 -CP2 - 10.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1396,6.16,0.054,0.138,3065,2.22
+11,margin,Slide23 -CP2 - 11.d,LC 020301,CP3,Pilbara,Cape Preston (2/5),1470,8.66,0.043,0.074,2638,2.32
+1,core,Slide21 -CP4 - 01.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),2350,32.27,0.048,0.118,1671,2.93
+2,2,Slide21 -CP4 - 02.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1966,11.89,0.031,0.183,1965,3.24
+3,3,Slide21 -CP4 - 03.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1784,7.72,0.047,0.083,2357,2.38
+4,4,Slide21 -CP4 - 04.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1777,10.26,0.047,0.136,2230,2.35
+5,5,Slide21 -CP4 - 05.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1536,6.66,0.040,0.090,2960,2.37
+6,6,Slide21 -CP4 - 06.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1513,6.23,0.044,0.130,3299,2.33
+7,7,Slide21 -CP4 - 07.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1455,7.02,0.035,0.125,2456,2.28
+8,8,Slide21 -CP4 - 08.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1535,6.75,0.039,0.121,2292,1.55
+9,9,Slide21 -CP4 - 09.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1443,6.30,0.085,0.166,3070,1.92
+10,10,Slide21 -CP4 - 10.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1464,7.60,0.029,0.166,3212,2.38
+11,margin,Slide21 -CP4 - 11.d,LC 020302,CP4,Pilbara,Cape Preston (2/5),1338,23.60,0.040,0.188,3004,2.34
+1,core,Slide21 -CV2 - 01.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),3010,49.81,0.040,0.256,1578,5.63
+2,2,Slide21 -CV2 - 02.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),2425,27.43,0.040,0.085,1685,5.60
+3,3,Slide21 -CV2 - 03.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1581,9.67,0.031,0.051,1788,3.43
+4,4,Slide21 -CV2 - 04.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1396,9.39,0.037,0.078,1999,3.98
+5,5,Slide21 -CV2 - 05.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1166,6.29,0.038,0.099,3038,5.12
+6,6,Slide21 -CV2 - 06.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1178,5.95,0.044,0.102,3277,4.62
+7,7,Slide21 -CV2 - 07.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1161,6.49,0.047,0.127,3097,4.58
+8,8,Slide21 -CV2 - 08.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1244,6.27,0.049,0.167,3344,5.12
+9,9,Slide21 -CV2 - 09.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1226,6.84,0.038,0.132,3458,5.28
+10,margin,Slide21 -CV2 - 10.d,LC 15-08-09_02,CV2,Kimberley,Cape Voltaire (4/5),1331,7.98,0.048,0.114,3123,4.05
+1,core,Slide23 -CV4 - 01.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),2925,37.70,0.042,0.504,1606,6.79
+2,2,Slide23 -CV4 - 02.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),2382,12.73,0.033,0.124,1879,8.07
+3,3,Slide23 -CV4 - 03.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1943,12.80,0.039,0.094,1972,2.59
+4,4,Slide23 -CV4 - 04.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1761,10.20,0.036,0.143,2330,3.08
+5,5,Slide23 -CV4 - 05.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1683,7.34,0.022,0.116,2638,3.96
+6,6,Slide23 -CV4 - 06.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1712,9.62,0.042,0.125,2454,4.41
+7,7,Slide23 -CV4 - 07.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1611,8.33,0.040,0.213,2614,3.16
+8,8,Slide23 -CV4 - 08.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1597,6.98,0.039,0.108,2812,4.18
+9,9,Slide23 -CV4 - 09.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1691,7.47,0.035,0.130,2533,3.33
+10,10,Slide23 -CV4 - 10.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1582,6.70,0.039,0.151,2829,3.84
+11,margin,Slide23 -CV4 - 11.d,LC 15-08-09_07,CV4,Kimberley,Cape Voltaire (4/5),1716,6.91,0.042,0.213,2741,2.95
+1,core,Slide21 -DC5 - 01.d,LC-M3-04,DC5,Pilbara,Gossypium Island,3012,54.29,0.052,0.399,2135,3.25
+2,2,Slide21 -DC5 - 02.d,LC-M3-04,DC5,Pilbara,Gossypium Island,2011,10.23,0.040,0.181,1814,1.21
+3,3,Slide21 -DC5 - 03.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1780,10.87,0.045,0.176,2056,1.45
+4,4,Slide21 -DC5 - 04.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1695,10.13,0.048,0.177,2208,2.11
+5,5,Slide21 -DC5 - 05.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1510,9.82,0.039,0.225,2948,1.98
+6,6,Slide21 -DC5 - 06.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1473,14.76,0.055,0.745,3130,2.59
+7,7,Slide21 -DC5 - 07.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1506,13.40,0.051,0.519,3329,3.01
+8,8,Slide21 -DC5 - 08.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1426,12.50,0.042,0.514,3084,2.82
+9,9,Slide21 -DC5 - 09.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1456,16.41,0.053,1.130,3390,2.82
+10,10,Slide21 -DC5 - 10.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1479,20.63,0.055,1.067,3342,2.65
+11,11,Slide21 -DC5 - 11.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1408,17.90,0.044,0.620,3220,3.06
+12,margin,Slide21 -DC5 - 12.d,LC-M3-04,DC5,Pilbara,Gossypium Island,1458,28.07,0.105,0.777,3281,2.98
+1,core,Slide21 -DC6 - 01.d,LC-M3-08,DC6,Pilbara,Gossypium Island,2761,44.68,0.046,0.189,1821,1.80
+2,2,Slide21 -DC6 - 02.d,LC-M3-08,DC6,Pilbara,Gossypium Island,2142,13.77,0.041,0.186,1940,1.52
+3,3,Slide21 -DC6 - 03.d,LC-M3-08,DC6,Pilbara,Gossypium Island,2173,14.18,0.041,0.142,1935,1.28
+4,4,Slide21 -DC6 - 04.d,LC-M3-08,DC6,Pilbara,Gossypium Island,2177,12.83,0.043,0.124,1724,1.53
+5,5,Slide21 -DC6 - 05.d,LC-M3-08,DC6,Pilbara,Gossypium Island,1779,13.30,0.043,0.115,2428,1.55
+6,6,Slide21 -DC6 - 06.d,LC-M3-08,DC6,Pilbara,Gossypium Island,1676,12.95,0.040,0.109,2845,2.00
+7,7,Slide21 -DC6 - 07.d,LC-M3-08,DC6,Pilbara,Gossypium Island,1571,17.49,0.036,0.133,2863,2.07
+8,8,Slide21 -DC6 - 08.d,LC-M3-08,DC6,Pilbara,Gossypium Island,1618,17.65,0.044,0.154,3241,2.21
+9,9,Slide21 -DC6 - 09.d,LC-M3-08,DC6,Pilbara,Gossypium Island,1640,20.91,0.037,0.137,3094,2.40
+10,margin,Slide21 -DC6 - 10.d,LC-M3-08,DC6,Pilbara,Gossypium Island,1565,29.70,0.060,0.221,3510,2.88
+1,core,Slide22 -OC7 - 01.d,LC-M3-01,DC7,Pilbara,Gossypium Island,2996,50.11,0.027,0.186,1837,1.85
+2,2,Slide22 -OC7 - 02.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1875,9.14,0.035,0.110,1884,1.30
+3,3,Slide22 -OC7 - 03.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1634,7.00,0.045,0.078,2284,1.21
+4,4,Slide22 -OC7 - 04.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1589,9.01,0.038,0.110,2445,1.35
+5,5,Slide22 -OC7 - 05.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1397,9.71,0.056,0.132,3197,2.22
+6,6,Slide22 -OC7 - 06.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1462,11.51,0.086,0.164,3305,2.10
+7,7,Slide22 -OC7 - 07.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1470,12.88,0.062,0.194,2983,2.04
+8,8,Slide22 -OC7 - 08.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1375,12.69,0.035,0.224,3361,1.81
+9,9,Slide22 -OC7 - 09.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1413,15.87,0.057,0.311,3335,1.94
+10,margin,Slide22 -OC7 - 10.d,LC-M3-01,DC7,Pilbara,Gossypium Island,1395,15.41,0.046,0.218,3216,1.88
+1,core,Slide20 -CC8 - 01.d,LC-M3-02,DC8,Pilbara,Gossypium Island,3008,54.34,0.034,0.537,2482,8.04
+2,2,Slide20 -CC8 - 02.d,LC-M3-02,DC8,Pilbara,Gossypium Island,2419,18.12,0.025,0.132,2479,2.36
+3,3,Slide20 -CC8 - 03.d,LC-M3-02,DC8,Pilbara,Gossypium Island,1959,9.74,0.034,0.125,1931,1.13
+4,4,Slide20 -CC8 - 04.d,LC-M3-02,DC8,Pilbara,Gossypium Island,2021,12.55,0.030,0.106,1771,1.17
+5,5,Slide20 -CC8 - 05.d,LC-M3-02,DC8,Pilbara,Gossypium Island,1789,13.33,0.041,0.120,2045,2.07
+6,6,Slide20 -CC8 - 06.d,LC-M3-02,DC8,Pilbara,Gossypium Island,1697,13.42,0.044,0.167,2499,1.52
+7,7,Slide20 -CC8 - 07.d,LC-M3-02,DC8,Pilbara,Gossypium Island,1641,12.20,0.036,0.098,2306,1.68
+8,8,Slide20 -CC8 - 08.d,LC-M3-02,DC8,Pilbara,Gossypium Island,1483,12.05,0.030,0.114,2779,1.96
+9,margin,Slide20 -CC8 - 09.d,LC-M3-02,DC8,Pilbara,Gossypium Island,1533,12.08,0.043,0.106,2494,1.71
+1,core,Slide21 -DD1 - 01.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),3115,57.53,0.130,1.330,2343,9.16
+2,2,Slide21 -DD1 - 02.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2937,51.00,0.047,0.749,2008,4.34
+3,3,Slide21 -DD1 - 03.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2551,15.12,0.039,0.218,1619,1.91
+4,4,Slide21 -DD1 - 04.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2491,20.96,0.045,0.357,1848,2.36
+5,5,Slide21 -DD1 - 05.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2093,10.57,0.044,1.260,2563,1.80
+6,6,Slide21 -DD1 - 06.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2012,15.13,0.040,0.125,1990,1.37
+7,7,Slide21 -DD1 - 07.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2026,10.20,0.046,1.440,2429,1.69
+8,8,Slide21 -DD1 - 08.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2019,12.88,0.059,0.188,1964,1.50
+9,9,Slide21 -DD1 - 09.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2120,11.80,0.048,0.393,2085,1.76
+10,margin,Slide21 -DD1 - 10.d,LC-M1-18,DD1,Pilbara,Dandelion Island (2/3),2154,12.40,0.067,0.590,2004,1.81
+1,core,Slide19 -DD2 - 01.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),3329,55.77,0.045,0.689,1725,7.94
+2,2,Slide19 -DD2 - 02.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),2660,19.81,0.037,0.294,1840,3.04
+3,3,Slide19 -DD2 - 03.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),2529,15.93,0.046,0.205,2072,2.66
+4,4,Slide19 -DD2 - 04.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),2190,11.25,0.043,0.160,2248,1.59
+5,5,Slide19 -DD2 - 05.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),2240,9.76,0.042,0.162,2119,1.51
+6,6,Slide19 -DD2 - 06.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),2202,11.55,0.033,0.133,1999,1.73
+7,7,Slide19 -DD2 - 07.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),2153,11.55,0.039,0.139,2221,2.54
+8,8,Slide19 -DD2 - 08.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),1798,8.21,0.044,0.193,2689,1.64
+9,9,Slide19 -DD2 - 09.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),1819,8.44,0.039,0.151,2370,1.66
+10,margin,Slide19 -DD2 - 10.d,LC-M1-26,DD2,Pilbara,Dandelion Island (1/3),1736,8.92,0.047,0.228,2431,1.62
+1,core,Slide22 -DD3 - 01.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),2916,51.97,0.042,0.218,1971,3.28
+2,2,Slide22 -DD3 - 02.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1933,9.58,0.036,0.092,2337,2.63
+3,3,Slide22 -DD3 - 03.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),2175,13.00,0.032,0.102,2101,1.46
+4,4,Slide22 -DD3 - 04.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1882,10.49,0.032,0.077,2592,1.56
+5,5,Slide22 -DD3 - 05.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1800,13.30,0.047,0.077,2625,2.03
+6,6,Slide22 -DD3 - 06.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1779,12.14,0.029,0.125,2861,2.28
+7,7,Slide22 -DD3 - 07.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1847,14.10,0.036,0.121,2726,2.00
+8,8,Slide22 -DD3 - 08.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1751,15.88,0.043,0.163,2824,2.00
+9,9,Slide22 -DD3 - 09.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1748,13.91,0.032,0.107,2928,2.47
+10,10,Slide22 -DD3 - 10.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1745,14.74,0.030,0.103,2914,2.18
+11,margin,Slide22 -DD3 - 11.d,LC-M1-17,DD3,Pilbara,Dandelion Island (3/3),1732,19.69,0.036,0.153,2903,1.97
+1,core,Slide21 -DD4 - 01.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),2820,38.00,0.047,3.660,1655,6.79
+2,2,Slide21 -DD4 - 02.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),2087,13.82,0.060,0.563,1858,1.72
+3,3,Slide21 -DD4 - 03.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1678,10.62,0.046,0.812,1927,0.91
+4,4,Slide21 -DD4 - 04.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1460,9.23,0.040,1.370,2383,2.09
+5,5,Slide21 -DD4 - 05.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1415,7.97,0.042,1.049,2737,2.06
+6,6,Slide21 -DD4 - 06.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1454,8.49,0.036,1.020,2477,1.86
+7,7,Slide21 -DD4 - 07.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1429,8.14,0.032,1.172,3105,2.52
+8,8,Slide21 -DD4 - 08.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1421,8.90,0.032,1.960,3268,2.43
+9,9,Slide21 -DD4 - 09.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1515,9.30,0.035,1.305,2832,2.16
+10,10,Slide21 -DD4 - 10.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1472,8.63,0.039,1.489,2875,1.86
+11,11,Slide21 -DD4 - 11.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1443,10.64,0.042,3.140,2858,1.97
+12,margin,Slide21 -DD4 - 12.d,LC-M1-19,DD4,Pilbara,Dandelion Island (1/3),1485,12.42,0.041,2.890,2838,1.72
+1,core,Da - 1.d,LC-SB2-05,DE1,Gascoyne,Dorre Island,4016,74.30,0.214,1.464,1803,1.30
+2,2,Da - 2.d,LC-SB2-05,DE1,Gascoyne,Dorre Island,2996,36.59,0.148,0.431,1996,4.72
+3,3,Da - 3.d,LC-SB2-05,DE1,Gascoyne,Dorre Island,2352,21.99,0.211,1.036,1990,1.36
+4,4,Da - 4.d,LC-SB2-05,DE1,Gascoyne,Dorre Island,1902,25.98,0.224,1.479,2638,1.76
+5,5,Da - 5.d,LC-SB2-05,DE1,Gascoyne,Dorre Island,1845,27.10,0.205,1.222,3155,2.24
+6,margin,Da - 6.d,LC-SB2-05,DE1,Gascoyne,Dorre Island,1825,71.60,Below LOD,5.100,3050,3.16
+1,core,Ce - 1.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,3476,64.50,0.254,1.912,1724,12.15
+2,2,Ce - 2.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,3432,45.40,0.196,0.281,1882,3.03
+3,3,Ce - 3.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2874,24.18,0.184,0.193,1848,3.10
+4,4,Ce - 4.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2663,21.64,0.176,0.175,1382,0.87
+5,5,Ce - 5.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2738,23.55,0.146,0.228,1308,0.82
+6,6,Ce - 6.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2451,21.58,0.205,0.205,1454,1.21
+7,7,Ce - 7.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2494,20.84,0.165,0.159,1595,1.47
+8,8,Ce - 8.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2540,14.69,0.179,0.164,2619,5.56
+9,9,Ce - 9.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2208,16.33,0.218,0.342,3190,4.92
+10,10,Ce - 10.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,2080,14.69,0.146,0.261,2980,4.34
+11,11,Ce - 11.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1956,13.63,0.171,0.315,2640,3.45
+12,12,Ce - 12.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1890,12.25,0.179,0.197,2880,3.11
+13,13,Ce - 13.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1855,12.18,0.138,0.214,2722,3.14
+14,14,Ce - 14.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1807,12.00,0.181,0.146,2806,3.51
+15,15,Ce - 15.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1826,11.99,0.167,0.153,3237,4.25
+16,16,Ce - 16.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1773,11.23,0.157,0.151,3154,4.54
+17,17,Ce - 17.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1885,12.36,0.211,0.251,3205,4.72
+18,18,Ce - 18.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1727,11.78,0.170,0.177,3187,4.89
+19,19,Ce - 19.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1844,12.28,0.170,0.184,2900,3.71
+20,margin,Ce - 20.d,LC-SB2-03,DE2,Gascoyne,Dorre Island,1898,12.75,0.176,0.186,2957,3.68
+1,core,Id - 1.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,3512,95.80,0.239,2.561,1889,3.95
+2,2,Id - 2.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,2917,38.53,0.185,0.869,2417,4.26
+3,3,Id - 3.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,2362,26.85,0.173,0.301,2222,2.10
+4,4,Id - 4.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,2043,27.22,0.189,0.488,3072,4.13
+5,5,Id - 5.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,1947,29.91,0.197,0.557,3212,5.47
+6,6,Id - 6.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,1901,31.38,0.207,0.482,3548,5.83
+7,margin,Id - 7.d,LC-SB2-06,DE3,Gascoyne,Dorre Island,1740,35.10,0.326,0.500,3730,7.15
+1,core,Slide21 -EF1 - 01.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),2625,36.12,0.034,0.164,2061,2.67
+2,2,Slide21 -EF1 - 02.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),2361,19.15,0.028,0.134,2079,2.92
+3,3,Slide21 -EF1 - 03.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),1827,28.68,0.043,0.244,2218,3.13
+4,4,Slide21 -EF1 - 04.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),1482,30.50,0.050,0.191,2933,2.19
+5,5,Slide21 -EF1 - 05.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),1459,35.60,0.031,0.231,2926,1.98
+6,6,Slide21 -EF1 - 06.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),1436,35.90,0.038,0.196,3508,4.69
+7,margin,Slide21 -EF1 - 07.d,LC 0204193,EP1,Kimberley,Indian Ocean (1/2),1256,39.70,0.044,0.365,4012,6.14
+1,core,Slide23 -SP3 - 01.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),3207,75.70,0.049,0.282,1679,1.69
+2,2,Slide23 -SP3 - 02.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1911,11.06,0.037,0.088,2197,1.28
+3,3,Slide23 -SP3 - 03.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1829,11.20,0.044,0.082,2197,1.30
+4,4,Slide23 -SP3 - 04.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1759,10.81,0.040,0.075,2320,1.73
+5,5,Slide23 -SP3 - 05.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1682,11.34,0.048,0.086,2624,1.77
+6,6,Slide23 -SP3 - 06.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1763,10.01,0.039,0.076,2506,1.87
+7,7,Slide23 -SP3 - 07.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1716,11.02,0.038,0.085,2551,2.62
+8,8,Slide23 -SP3 - 08.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1588,9.32,0.058,0.093,2943,2.45
+9,9,Slide23 -SP3 - 09.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1516,9.58,0.055,0.077,3027,1.98
+10,10,Slide23 -SP3 - 10.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1502,11.04,0.047,0.066,2700,1.93
+11,margin,Slide23 -SP3 - 11.d,LC 0204188,EP3,Kimberley,Indian Ocean (1/2),1275,10.73,0.068,0.100,2762,2.18
+1,core,Slide22 -EP4 - 01.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),3183,61.71,0.033,0.742,1730,8.33
+2,2,Slide22 -EP4 - 02.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1884,13.28,0.045,0.093,1985,3.45
+3,3,Slide22 -EP4 - 03.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1570,7.51,0.036,0.071,2802,2.49
+4,4,Slide22 -EP4 - 04.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1441,10.94,0.038,0.064,2825,2.54
+5,5,Slide22 -EP4 - 05.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1313,11.34,0.034,0.077,3500,3.33
+6,6,Slide22 -EP4 - 06.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1306,15.62,0.030,0.085,2932,3.69
+7,7,Slide22 -EP4 - 07.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1266,16.04,0.032,0.086,2907,3.98
+8,8,Slide22 -EP4 - 08.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1169,30.70,0.048,0.105,3338,4.14
+9,margin,Slide22 -EP4 - 09.d,LC 0204189,EP4,Kimberley,Indian Ocean (1/2),1183,35.20,0.040,0.083,3396,4.70
+1,core,Slide19 -GD3 - 01.d,LC-D2-05,GD3,Pilbara,Gidley Island,3081,53.39,0.032,0.260,2046,18.47
+2,2,Slide19 -GD3 - 02.d,LC-D2-05,GD3,Pilbara,Gidley Island,2095,10.37,0.030,0.090,1962,3.39
+3,3,Slide19 -GD3 - 03.d,LC-D2-05,GD3,Pilbara,Gidley Island,2002,11.64,0.045,0.114,1916,2.53
+4,4,Slide19 -GD3 - 04.d,LC-D2-05,GD3,Pilbara,Gidley Island,1824,9.72,0.034,0.140,2320,2.13
+5,5,Slide19 -GD3 - 05.d,LC-D2-05,GD3,Pilbara,Gidley Island,1617,8.49,0.041,0.125,2914,2.64
+6,6,Slide19 -GD3 - 06.d,LC-D2-05,GD3,Pilbara,Gidley Island,1467,7.32,0.040,0.103,3498,2.57
+7,7,Slide19 -GD3 - 07.d,LC-D2-05,GD3,Pilbara,Gidley Island,1449,7.36,0.029,0.135,3265,2.39
+8,8,Slide19 -GD3 - 08.d,LC-D2-05,GD3,Pilbara,Gidley Island,1375,6.17,0.044,0.063,3585,2.26
+9,9,Slide19 -GD3 - 09.d,LC-D2-05,GD3,Pilbara,Gidley Island,1325,6.32,0.030,0.061,3553,2.39
+10,margin,Slide19 -GD3 - 10.d,LC-D2-05,GD3,Pilbara,Gidley Island,1327,6.46,0.036,0.065,3724,2.70
+1,core,Slide20 -GD4 - 01.d,LC-D2-08,GD4,Pilbara,Gidley Island,2934,40.71,0.032,0.264,1611,2.77
+2,2,Slide20 -GD4 - 02.d,LC-D2-08,GD4,Pilbara,Gidley Island,1902,13.95,0.035,0.143,2171,4.00
+3,3,Slide20 -GD4 - 03.d,LC-D2-08,GD4,Pilbara,Gidley Island,1649,7.79,0.041,0.151,2651,2.04
+4,4,Slide20 -GD4 - 04.d,LC-D2-08,GD4,Pilbara,Gidley Island,1494,6.52,0.041,0.490,3358,2.47
+5,5,Slide20 -GD4 - 05.d,LC-D2-08,GD4,Pilbara,Gidley Island,1500,8.38,0.058,1.330,3180,2.50
+6,6,Slide20 -GD4 - 06.d,LC-D2-08,GD4,Pilbara,Gidley Island,1511,8.12,0.030,0.392,3058,2.85
+7,7,Slide20 -GD4 - 07.d,LC-D2-08,GD4,Pilbara,Gidley Island,1455,7.98,0.043,0.414,3087,3.06
+8,8,Slide20 -GD4 - 08.d,LC-D2-08,GD4,Pilbara,Gidley Island,1384,7.78,0.035,0.558,3709,3.49
+9,9,Slide20 -GD4 - 09.d,LC-D2-08,GD4,Pilbara,Gidley Island,1437,8.80,0.042,0.570,3396,3.52
+10,margin,Slide20 -GD4 - 10.d,LC-D2-08,GD4,Pilbara,Gidley Island,1403,8.95,0.039,0.631,3595,3.49
+1,core,Slide22 -GD5 - 01.d,LC-D2-02,GD5,Pilbara,Gidley Island,2914,47.70,0.022,0.377,2105,10.50
+2,2,Slide22 -GD5 - 02.d,LC-D2-02,GD5,Pilbara,Gidley Island,2080,13.16,0.027,0.136,2220,6.84
+3,3,Slide22 -GD5 - 03.d,LC-D2-02,GD5,Pilbara,Gidley Island,2154,13.18,0.027,0.233,2570,6.24
+4,4,Slide22 -GD5 - 04.d,LC-D2-02,GD5,Pilbara,Gidley Island,1875,7.98,0.041,0.164,2562,3.15
+5,5,Slide22 -GD5 - 05.d,LC-D2-02,GD5,Pilbara,Gidley Island,1962,7.95,0.039,0.105,2723,5.71
+6,6,Slide22 -GD5 - 06.d,LC-D2-02,GD5,Pilbara,Gidley Island,2027,10.72,0.043,0.156,2347,2.70
+7,7,Slide22 -GD5 - 07.d,LC-D2-02,GD5,Pilbara,Gidley Island,1777,7.81,0.032,0.103,2822,2.19
+8,margin,Slide22 -GD5 - 08.d,LC-D2-02,GD5,Pilbara,Gidley Island,1734,10.07,0.049,1.220,2805,2.87
+1,core,Slide19 -GD6 - 01.d,LC-D2-03,GD6,Pilbara,Gidley Island,3273,52.50,0.039,0.249,1624,14.99
+2,2,Slide19 -GD6 - 02.d,LC-D2-03,GD6,Pilbara,Gidley Island,2358,15.05,0.032,0.108,1675,1.76
+3,3,Slide19 -GD6 - 03.d,LC-D2-03,GD6,Pilbara,Gidley Island,2234,14.19,0.035,0.111,1768,1.60
+4,4,Slide19 -GD6 - 04.d,LC-D2-03,GD6,Pilbara,Gidley Island,2055,12.92,0.045,0.093,1953,1.56
+5,5,Slide19 -GD6 - 05.d,LC-D2-03,GD6,Pilbara,Gidley Island,1712,7.39,0.036,0.067,2681,2.29
+6,6,Slide19 -GD6 - 06.d,LC-D2-03,GD6,Pilbara,Gidley Island,1883,9.69,0.033,0.079,2085,1.81
+7,7,Slide19 -GD6 - 07.d,LC-D2-03,GD6,Pilbara,Gidley Island,1614,6.60,0.030,0.073,2918,1.84
+8,8,Slide19 -GD6 - 08.d,LC-D2-03,GD6,Pilbara,Gidley Island,1609,7.44,0.036,0.069,2775,1.79
+9,9,Slide19 -GD6 - 09.d,LC-D2-03,GD6,Pilbara,Gidley Island,1602,7.92,0.031,0.075,2580,1.89
+10,margin,Slide19 -GD6 - 10.d,LC-D2-03,GD6,Pilbara,Gidley Island,1562,8.03,0.044,0.079,3112,1.64
+1,core,Slide21 -HP1 - 01.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),2640,29.15,0.032,0.209,1685,1.88
+2,2,Slide21 -HP1 - 02.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1832,10.73,0.029,0.213,2274,7.56
+3,3,Slide21 -HP1 - 03.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1428,8.00,0.030,0.146,3012,3.12
+4,4,Slide21 -HP1 - 04.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1427,7.80,0.029,0.111,3233,3.18
+5,5,Slide21 -HP1 - 05.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1390,7.28,0.041,0.141,3674,3.51
+6,6,Slide21 -HP1 - 06.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1406,7.41,0.037,0.125,3985,4.10
+7,7,Slide21 -HP1 - 07.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1401,7.22,0.062,0.139,3957,4.03
+8,8,Slide21 -HP1 - 08.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1475,7.18,0.046,0.140,4188,4.70
+9,9,Slide21 -HP1 - 09.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1420,7.21,0.041,0.141,4175,5.23
+10,margin,Slide21 -HP1 - 10.d,LC 12-09-14_12,HP1,Kimberley,Hall Point (37/44),1418,7.62,0.051,0.104,4509,4.98
+1,core,Slide22 -HF2 - 01.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),2932,50.80,0.026,0.207,1891,6.32
+2,2,Slide22 -HF2 - 02.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1781,13.10,0.030,0.209,2517,7.28
+3,3,Slide22 -HF2 - 03.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1417,7.98,0.027,0.125,2767,3.77
+4,4,Slide22 -HF2 - 04.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1485,8.58,0.026,0.140,2735,4.77
+5,5,Slide22 -HF2 - 05.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1341,7.35,0.032,0.135,3250,4.15
+6,6,Slide22 -HF2 - 06.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1322,7.16,0.038,0.244,3680,4.76
+7,7,Slide22 -HF2 - 07.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1330,7.33,0.030,0.192,3758,4.23
+8,8,Slide22 -HF2 - 08.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1323,7.65,0.040,0.183,3922,5.94
+9,9,Slide22 -HF2 - 09.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1369,9.42,0.047,0.175,4326,5.73
+10,margin,Slide22 -HF2 - 10.d,LC 12-09-14_18,HP2,Kimberley,Hall Point (37/44),1359,21.80,0.041,0.182,4753,5.79
+1,core,Slide21 -HP3 - 01.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),2933,57.89,0.035,0.216,1951,4.28
+2,2,Slide21 -HP3 - 02.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),2204,15.23,0.031,0.119,1992,7.28
+3,3,Slide21 -HP3 - 03.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1661,8.33,0.033,0.090,2259,3.30
+4,4,Slide21 -HP3 - 04.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1611,7.28,0.054,0.133,2626,3.04
+5,5,Slide21 -HP3 - 05.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1539,7.63,0.036,0.148,2547,2.86
+6,6,Slide21 -HP3 - 06.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1434,7.28,0.046,0.162,2944,2.97
+7,7,Slide21 -HP3 - 07.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1440,7.49,0.056,0.204,2802,3.13
+8,8,Slide21 -HP3 - 08.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1363,7.00,0.030,0.133,3173,3.40
+9,9,Slide21 -HP3 - 09.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1361,7.02,0.053,0.333,3103,3.08
+10,margin,Slide21 -HP3 - 10.d,LC 12-09-14_13,HP3,Kimberley,Hall Point (37/44),1410,6.91,0.055,0.320,3277,3.37
+1,core,Slide19 -HP4 - 01.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),3022,60.82,0.032,0.219,1794,3.52
+2,2,Slide19 -HP4 - 02.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),2026,15.66,0.032,0.068,2134,6.67
+3,3,Slide19 -HP4 - 03.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1755,13.04,0.030,0.066,2189,5.41
+4,4,Slide19 -HP4 - 04.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1478,9.96,0.035,0.070,2369,3.35
+5,5,Slide19 -HP4 - 05.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1513,8.51,0.029,0.056,2228,3.17
+6,6,Slide19 -HP4 - 06.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1420,8.73,0.036,0.048,2089,2.57
+7,7,Slide19 -HP4 - 07.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1318,7.89,0.028,0.075,2604,2.48
+8,8,Slide19 -HP4 - 08.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1333,7.28,0.038,0.056,2603,2.29
+9,9,Slide19 -HP4 - 09.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1361,7.71,0.031,0.132,3421,3.72
+10,margin,Slide19 -HP4 - 10.d,LC 12-09-14_14,HP4,Kimberley,Hall Point (37/44),1333,8.41,0.054,0.227,3390,3.96
+1,core,Slide21 -HY1 - 01.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,2952,48.96,0.033,0.400,1820,2.93
+2,2,Slide21 -HY1 - 02.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1938,13.82,0.033,0.119,2317,7.48
+3,3,Slide21 -HY1 - 03.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1682,7.95,0.043,0.120,2649,3.44
+4,4,Slide21 -HY1 - 04.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1439,6.53,0.040,0.130,3258,4.96
+5,5,Slide21 -HY1 - 05.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1379,6.62,0.029,0.115,3478,4.45
+6,6,Slide21 -HY1 - 06.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1416,6.31,0.046,0.109,3150,3.61
+7,7,Slide21 -HY1 - 07.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1434,6.50,0.040,0.223,3334,4.23
+8,8,Slide21 -HY1 - 08.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1369,6.21,0.041,0.235,3537,4.65
+9,9,Slide21 -HY1 - 09.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1360,5.80,0.041,0.113,3298,4.25
+10,margin,Slide21 -HY1 - 10.d,LC 13-08-28_03N,HY1,Kimberley,Heywood Island N,1386,7.26,0.036,0.291,3704,4.36
+1,core,Slide23 -HY2 - 01.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,3256,62.00,0.062,0.268,1828,7.24
+2,2,Slide23 -HY2 - 02.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,2418,22.36,0.062,0.179,1770,2.76
+3,3,Slide23 -HY2 - 03.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1875,11.50,0.041,0.114,2340,2.32
+4,4,Slide23 -HY2 - 04.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1669,8.72,0.023,0.097,2439,2.03
+5,5,Slide23 -HY2 - 05.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1555,8.66,0.041,0.165,2751,4.33
+6,6,Slide23 -HY2 - 06.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1538,8.08,0.036,0.108,2732,4.16
+7,7,Slide23 -HY2 - 07.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1454,7.50,0.055,0.137,3197,3.58
+8,8,Slide23 -HY2 - 08.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1434,7.07,0.052,0.250,3001,3.50
+9,margin,Slide23 -HY2 - 09.d,LC 13-08-28_04N,HY2,Kimberley,Heywood Island N,1420,7.01,0.034,0.123,3326,4.39
+1,core,Slide19 -HY3 - 01.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,2469,34.80,0.034,0.275,1811,3.03
+2,2,Slide19 -HY3 - 02.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,2304,17.91,0.029,0.135,2467,3.09
+3,3,Slide19 -HY3 - 03.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1749,9.47,0.035,0.102,2246,1.58
+4,4,Slide19 -HY3 - 04.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1594,8.16,0.030,0.070,2519,2.06
+5,5,Slide19 -HY3 - 05.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1472,6.00,0.031,0.067,2776,1.86
+6,6,Slide19 -HY3 - 06.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1420,6.18,0.029,0.137,2860,1.87
+7,7,Slide19 -HY3 - 07.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1437,6.27,0.030,0.256,2792,1.89
+8,8,Slide19 -HY3 - 08.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1421,6.22,0.031,0.227,2965,2.58
+9,9,Slide19 -HY3 - 09.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1373,6.13,0.040,0.357,3055,2.37
+10,margin,Slide19 -HY3 - 10.d,LC 13-08-28_01N,HY3,Kimberley,Heywood Island N,1245,6.15,0.032,0.262,3228,2.96
+1,core,Ef - 1.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),3326,52.40,0.177,0.708,2055,5.36
+2,2,Ef - 2.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),2607,25.33,0.182,0.262,2131,3.10
+3,3,Ef - 3.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),2254,13.05,0.164,0.176,2222,1.69
+4,4,Ef - 4.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1900,13.82,0.165,0.165,2380,1.54
+5,5,Ef - 5.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1658,10.99,0.200,0.173,3093,2.27
+6,6,Ef - 6.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1712,10.21,0.186,0.186,2876,2.05
+7,7,Ef - 7.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1682,10.09,0.179,0.159,2945,1.79
+8,8,Ef - 8.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1581,9.65,0.166,0.146,2900,1.94
+9,9,Ef - 9.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1553,9.86,0.190,0.230,2969,2.01
+10,10,Ef - 10.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1556,9.31,0.180,0.167,3236,2.26
+11,11,Ef - 11.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1624,9.58,0.159,0.242,3315,2.47
+12,12,Ef - 12.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1631,9.66,0.170,0.250,3237,2.55
+13,13,Ef - 13.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1608,9.58,0.193,0.218,3088,2.11
+14,margin,Ef - 14.d,LC 15-08-19_01,JR1,Kimberley,Jamieson Reef (2/3),1713,17.85,0.219,1.706,3190,2.57
+1,core,Ja - 1.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),3097,38.50,0.214,0.744,2129,1.24
+2,2,Ja - 2.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),2420,18.58,0.162,0.203,2024,9.35
+3,3,Ja - 3.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1873,12.40,0.145,0.201,2577,6.36
+4,4,Ja - 4.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1846,13.91,0.172,0.256,2344,3.15
+5,5,Ja - 5.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1615,11.38,0.198,0.404,2692,3.29
+6,6,Ja - 6.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1534,11.18,0.224,0.511,2732,2.04
+7,7,Ja - 7.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1469,10.71,0.225,0.609,2970,1.89
+8,8,Ja - 8.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1417,16.57,0.242,0.654,3078,1.79
+9,margin,Ja - 9.d,LC 15-08-19_02,JR2,Kimberley,Jamieson Reef (2/3),1348,35.33,0.713,6.130,3268,2.53
+1,core,Ge - 1.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),3626,65.30,0.217,0.599,1764,1.55
+2,2,Ge - 2.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),3165,44.96,0.193,0.380,1861,2.01
+3,3,Ge - 3.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2393,23.06,0.186,0.230,2064,4.64
+4,4,Ge - 4.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2071,17.00,0.180,0.181,2071,3.30
+5,5,Ge - 5.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2189,15.06,0.208,0.187,2169,2.22
+6,6,Ge - 6.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2254,17.30,0.196,0.185,2293,2.51
+7,7,Ge - 7.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2305,16.82,0.193,0.170,2140,2.03
+8,8,Ge - 8.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2202,14.38,0.189,0.288,2796,2.53
+9,9,Ge - 9.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2102,13.44,0.205,0.292,2972,2.73
+10,margin,Ge - 10.d,LC 15-08-19_04,JR3,Kimberley,Jamieson Reef (2/3),2110,15.69,0.211,0.327,3131,3.12
+1,core,Be - 1.d,LC 15-08-19_05,JR4,Kimberley,Jamieson Reef (2/3),3582,62.70,0.259,1.830,1909,5.29
+2,2,Be - 2.d,LC 15-08-19_05,JR4,Kimberley,Jamieson Reef (2/3),3184,63.10,0.200,0.310,2075,5.00
+3,3,Be - 3.d,LC 15-08-19_05,JR4,Kimberley,Jamieson Reef (2/3),2575,29.68,0.166,0.262,2041,1.62
+4,4,Be - 4.d,LC 15-08-19_05,JR4,Kimberley,Jamieson Reef (2/3),2196,19.81,0.165,0.233,1929,3.84
+5,5,Be - 5.d,LC 15-08-19_05,JR4,Kimberley,Jamieson Reef (2/3),2085,15.78,0.185,0.203,2009,1.92
+6,margin,Be - 6.d,LC 15-08-19_05,JR4,Kimberley,Jamieson Reef (2/3),2567,16.37,0.185,0.402,2201,1.99
+1,core,LC1 - 1,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,2598,36.25,0.044,0.134,2008,2.46
+2,2,LC1 - 2,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1612,14.70,Below LOD,0.101,2820,3.48
+3,3,LC1 - 3,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1330,12.85,0.054,0.101,2942,2.30
+4,4,LC1 - 4,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1292,12.18,0.053,0.072,3469,2.42
+5,5,LC1 - 5,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1287,11.81,0.053,0.061,3189,2.30
+6,6,LC1 - 6,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1220,10.86,0.034,0.043,3218,2.32
+7,7,LC1 - 7,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1262,11.78,Below LOD,0.041,3593,2.73
+8,margin,LC1 - 8,LA 17-05-01_02,LC1,Northern Territories,Emu Reefs,1211,11.55,0.058,0.068,3705,3.39
+1,core,LC2 - 1,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,2584,44.06,Below LOD,0.161,1856,1.68
+2,2,LC2 - 2,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1811,17.07,0.052,0.053,2186,4.85
+3,3,LC2 - 3,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1343,13.57,0.046,0.068,2602,2.96
+4,4,LC2 - 4,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1246,13.05,0.040,0.044,3143,2.29
+5,5,LC2 - 5,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1132,11.83,0.042,0.052,2844,2.55
+6,6,LC2 - 6,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1123,11.60,Below LOD,0.049,3031,3.21
+7,7,LC2 - 7,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1171,10.91,0.039,0.039,3216,2.72
+8,8,LC2 - 8,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1162,10.53,0.044,0.038,3672,3.15
+9,9,LC2 - 9,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1193,11.24,0.059,0.043,3362,2.95
+10,margin,LC2 - 10,LA 17-05-01_03,LC2,Northern Territories,Emu Reefs,1172,10.94,Below LOD,0.050,3708,3.48
+1,core,LC3 - 1,LA 17-05-01_04,LC3,Northern Territories,Emu Reefs,2532,35.80,0.063,0.169,2036,1.52
+2,2,LC3 - 2,LA 17-05-01_04,LC3,Northern Territories,Emu Reefs,2094,19.62,Below LOD,0.131,2350,2.07
+3,3,LC3 - 3,LA 17-05-01_04,LC3,Northern Territories,Emu Reefs,1614,15.72,0.043,0.066,2239,1.86
+4,4,LC3 - 4,LA 17-05-01_04,LC3,Northern Territories,Emu Reefs,1384,14.35,0.040,0.070,2753,2.62
+5,5,LC3 - 5,LA 17-05-01_04,LC3,Northern Territories,Emu Reefs,1286,13.10,0.041,0.069,2730,3.11
+6,margin,LC3 - 6,LA 17-05-01_04,LC3,Northern Territories,Emu Reefs,1175,186.20,Below LOD,1.360,3241,6.07
+1,core,LC4 - 1,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1658,24.92,0.045,0.095,2087,4.40
+2,2,LC4 - 2,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1755,15.35,0.033,0.075,2509,8.09
+3,3,LC4 - 3,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1504,15.31,0.039,0.110,2848,3.42
+4,4,LC4 - 4,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1340,15.06,0.035,0.177,3275,3.25
+5,5,LC4 - 5,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1284,12.96,0.052,0.089,3399,3.32
+6,6,LC4 - 6,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1308,12.99,0.046,0.125,3274,2.79
+7,7,LC4 - 7,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1326,13.33,0.037,0.089,3200,2.85
+8,8,LC4 - 8,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1272,13.71,0.040,0.083,3153,2.85
+9,margin,LC4 - 9,LA 17-05-01_05,LC4,Northern Territories,Emu Reefs,1263,12.89,0.047,0.095,3751,3.73
+1,core,LC5 - 1,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,2367,32.96,0.053,0.116,2082,7.52
+2,2,LC5 - 2,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,2239,20.63,0.042,0.173,2502,7.62
+3,3,LC5 - 3,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1507,15.16,0.042,0.079,2555,2.74
+4,4,LC5 - 4,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1262,12.88,0.039,0.081,3036,2.24
+5,5,LC5 - 5,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1291,13.45,0.049,0.098,3273,1.89
+6,6,LC5 - 6,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1203,12.50,0.051,0.099,3174,2.07
+7,7,LC5 - 7,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1217,13.73,0.040,0.078,3212,2.17
+8,8,LC5 - 8,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1251,14.72,0.039,0.112,3211,2.12
+9,margin,LC5 - 9,LA 17-05-01_08,LC5,Northern Territories,Emu Reefs,1219,16.69,0.059,0.067,3556,2.44
+1,core,LC6 - 1,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,2743,51.54,0.058,0.239,2015,5.71
+2,2,LC6 - 2,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1720,16.82,0.040,0.085,2387,1.43
+3,3,LC6 - 3,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1498,15.40,0.064,0.090,2388,1.57
+4,4,LC6 - 4,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1279,15.22,0.042,0.086,3375,2.00
+5,5,LC6 - 5,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1232,14.29,0.047,0.080,3493,2.11
+6,6,LC6 - 6,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1252,15.24,0.041,0.088,3769,2.17
+7,7,LC6 - 7,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1238,14.84,0.051,0.087,3599,2.27
+8,8,LC6 - 8,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1182,14.31,0.061,0.062,3840,3.04
+9,margin,LC6 - 9,LA 17-05-01_09,LC6,Northern Territories,Emu Reefs,1098,17.55,0.069,0.104,3968,3.06
+1,core,Slide19 -LGA2 - 01.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),3185,121.50,0.042,0.302,2005,0.93
+2,2,Slide19 -LGA2 - 02.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),2563,20.43,0.032,0.111,1931,1.33
+3,3,Slide19 -LGA2 - 03.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),2276,16.73,0.033,0.113,2082,1.51
+4,4,Slide19 -LGA2 - 04.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),2112,12.79,0.036,0.106,2303,1.63
+5,5,Slide19 -LGA2 - 05.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),1910,9.29,0.038,0.094,2647,1.81
+6,6,Slide19 -LGA2 - 06.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),1925,9.45,0.035,0.077,2472,1.77
+7,7,Slide19 -LGA2 - 07.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),1943,11.28,0.040,0.094,2144,1.44
+8,8,Slide19 -LGA2 - 08.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),1833,10.14,0.039,0.097,2564,1.59
+9,margin,Slide19 -LGA2 - 09.d,LC 14-10-09_08,LGA2,Kimberley,Longitude Island (2/4),1646,8.40,0.032,0.058,2893,1.61
+1,core,Slide21 -LGA3 - 01.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),2940,53.10,0.040,0.391,1538,1.15
+2,2,Slide21 -LGA3 - 02.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),2152,14.65,0.046,0.299,2627,4.90
+3,3,Slide21 -LGA3 - 03.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1863,9.93,0.049,0.161,2592,2.68
+4,4,Slide21 -LGA3 - 04.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1802,11.17,0.049,0.124,2653,3.60
+5,5,Slide21 -LGA3 - 05.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1688,9.56,0.058,0.106,2817,3.79
+6,6,Slide21 -LGA3 - 06.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1648,9.30,0.037,0.096,2767,3.20
+7,7,Slide21 -LGA3 - 07.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1673,8.09,0.044,0.106,3060,3.96
+8,8,Slide21 -LGA3 - 08.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1724,6.74,0.048,0.096,3981,6.17
+9,9,Slide21 -LGA3 - 09.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1769,6.59,0.044,0.087,3782,3.92
+10,margin,Slide21 -LGA3 - 10.d,LC 14-10-09_04,LGA3,Kimberley,Longitude Island (2/4),1850,8.19,0.055,0.102,3678,4.48
+1,core,Slide23 -LGA4 - 01.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),2963,47.51,0.028,0.266,1699,2.17
+2,2,Slide23 -LGA4 - 02.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),2175,16.11,0.038,0.112,1906,1.57
+3,3,Slide23 -LGA4 - 03.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1911,13.12,0.036,0.105,2139,2.53
+4,4,Slide23 -LGA4 - 04.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1844,11.30,0.038,0.112,2371,2.60
+5,5,Slide23 -LGA4 - 05.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1715,8.25,0.039,0.081,2724,3.41
+6,6,Slide23 -LGA4 - 06.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1742,9.19,0.039,0.080,2516,2.41
+7,7,Slide23 -LGA4 - 07.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1789,8.32,0.042,0.070,2671,2.52
+8,8,Slide23 -LGA4 - 08.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1799,8.33,0.039,0.063,2619,2.30
+9,margin,Slide23 -LGA4 - 09.d,LC 14-10-09_05,LGA4,Kimberley,Longitude Island (2/4),1748,10.75,0.046,0.070,2919,2.31
+1,core,Slide23 -LP1 - 01.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),3014,34.55,0.029,0.739,2354,14.15
+2,2,Slide23 -LP1 - 02.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),2224,12.46,0.040,0.200,1854,9.52
+3,3,Slide23 -LP1 - 03.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1991,10.86,0.033,0.114,1940,2.64
+4,4,Slide23 -LP1 - 04.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),2078,11.19,0.047,0.109,1904,2.67
+5,5,Slide23 -LP1 - 05.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1959,11.81,0.034,0.217,2124,2.69
+6,6,Slide23 -LP1 - 06.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1713,9.94,0.038,0.662,2450,2.42
+7,7,Slide23 -LP1 - 07.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1648,10.13,0.047,1.298,2612,2.34
+8,8,Slide23 -LP1 - 08.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1622,10.05,0.039,1.576,2796,2.70
+9,9,Slide23 -LP1 - 09.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1561,11.24,0.046,2.051,2966,2.32
+10,10,Slide23 -LP1 - 10.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1518,13.06,0.037,2.063,3378,3.14
+11,11,Slide23 -LP1 - 11.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1570,16.16,0.046,2.170,2980,2.65
+12,12,Slide23 -LP1 - 12.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1551,18.92,0.042,2.370,3300,3.02
+13,13,Slide23 -LP1 - 13.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1575,20.67,0.043,2.880,3550,3.05
+14,margin,Slide23 -LP1 - 14.d,LC 020205,LP1,Gascoyne,Locker Island (3/5),1442,23.34,0.041,1.930,3839,4.37
+1,core,Slide20 -LP2 - 01.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),3174,57.89,0.019,0.354,2409,3.15
+2,2,Slide20 -LP2 - 02.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),2506,19.83,0.030,0.123,1967,12.59
+3,3,Slide20 -LP2 - 03.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),2318,16.92,0.029,0.094,1977,10.36
+4,4,Slide20 -LP2 - 04.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),2274,12.76,0.036,0.117,1652,3.49
+5,5,Slide20 -LP2 - 05.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),1858,7.89,0.033,0.104,2173,2.72
+6,6,Slide20 -LP2 - 06.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),1921,9.88,0.039,0.146,2156,1.89
+7,7,Slide20 -LP2 - 07.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),1658,7.31,0.044,0.110,2393,1.59
+8,8,Slide20 -LP2 - 08.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),1493,6.72,0.037,0.133,3062,2.21
+9,margin,Slide20 -LP2 - 09.d,LC 020206,LP2,Gascoyne,Locker Island (3/5),1516,9.49,0.042,0.119,2697,2.75
+1,core,Slide20 -LP3 - 01.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),3121,47.81,0.044,0.621,1566,3.48
+2,2,Slide20 -LP3 - 02.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),2500,22.83,0.025,0.136,1726,6.96
+3,3,Slide20 -LP3 - 03.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),2510,23.96,0.033,0.125,1496,2.38
+4,4,Slide20 -LP3 - 04.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),2481,21.09,0.029,0.134,1409,1.53
+5,5,Slide20 -LP3 - 05.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),2165,15.50,0.045,0.114,1580,1.87
+6,6,Slide20 -LP3 - 06.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),2159,16.02,0.038,0.135,1938,3.43
+7,7,Slide20 -LP3 - 07.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),1999,14.53,0.039,0.096,2011,1.98
+8,8,Slide20 -LP3 - 08.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),1738,10.98,0.038,0.090,2202,2.68
+9,9,Slide20 -LP3 - 09.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),1928,15.60,0.024,0.129,2139,2.11
+10,10,Slide20 -LP3 - 10.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),1743,10.78,0.030,0.099,2269,2.82
+11,margin,Slide20 -LP3 - 11.d,LC 020201,LP3,Gascoyne,Locker Island (1/5),1686,9.60,0.038,0.093,2378,2.61
+1,core,Slide19 -LP4 - 01.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1862,11.94,0.031,0.229,2300,2.36
+2,2,Slide19 -LP4 - 02.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1712,10.89,0.029,0.534,2542,2.26
+3,3,Slide19 -LP4 - 03.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1627,11.13,0.033,0.584,2685,2.39
+4,4,Slide19 -LP4 - 04.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1565,12.12,0.026,0.669,3049,2.95
+5,5,Slide19 -LP4 - 05.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1520,13.55,0.034,0.663,3144,2.41
+6,6,Slide19 -LP4 - 06.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1432,11.28,0.023,0.763,3288,2.80
+7,7,Slide19 -LP4 - 07.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1537,16.18,0.035,0.701,2938,2.34
+8,8,Slide19 -LP4 - 08.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1552,21.27,0.030,1.050,3038,2.53
+9,9,Slide19 -LP4 - 09.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1482,17.11,0.027,0.720,3470,2.49
+10,margin,Slide19 -LP4 - 10.d,LC 020202,LP4,Gascoyne,Locker Island (2/5),1327,23.41,0.043,0.207,3269,2.76
+1,core,Ed - 1.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),3515,73.70,0.187,0.752,1845,19.61
+2,2,Ed - 2.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2859,36.10,0.170,0.227,1873,2.32
+3,3,Ed - 3.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2543,20.77,0.190,0.206,2000,2.25
+4,4,Ed - 4.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2448,21.71,0.164,0.182,1932,3.29
+5,5,Ed - 5.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2182,16.60,0.204,0.217,2379,2.55
+6,6,Ed - 6.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2366,18.48,0.141,0.164,2399,2.79
+7,7,Ed - 7.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2350,18.46,0.175,0.195,2561,2.46
+8,margin,Ed - 8.d,LC 15-08-13_13,LR1,Kimberley,Intitut Islands (4/5),2400,17.04,0.194,0.290,2792,2.86
+1,core,Cd - 1.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),3354,45.00,0.201,0.307,1922,2.01
+2,2,Cd - 2.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),2811,23.92,0.171,0.176,2039,17.42
+3,3,Cd - 3.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),2401,17.85,0.184,0.166,2105,17.12
+4,4,Cd - 4.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),2074,14.95,0.145,0.122,2294,4.03
+5,5,Cd - 5.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1844,10.76,0.178,0.102,3021,4.83
+6,6,Cd - 6.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1801,10.83,0.175,0.136,3003,3.46
+7,7,Cd - 7.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1634,9.35,0.168,0.103,3579,3.65
+8,8,Cd - 8.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1631,9.39,0.133,0.126,3573,3.03
+9,9,Cd - 9.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1608,8.91,0.151,0.120,3712,2.91
+10,10,Cd - 10.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1528,8.67,0.169,0.110,3738,2.58
+11,11,Cd - 11.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1517,9.03,0.181,0.113,4353,3.09
+12,margin,Cd - 12.d,LC 15-08-13_14,LR2,Kimberley,Intitut Islands (4/5),1502,9.03,0.142,0.138,3367,2.39
+1,core,Ac - 1.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),4120,75.50,0.220,0.820,1903,3.81
+2,2,Ac - 2.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),2813,27.02,0.199,0.254,2068,42.20
+3,3,Ac - 3.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),2217,15.37,0.234,0.203,2125,4.84
+4,4,Ac - 4.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),2029,13.94,0.218,0.185,2377,4.14
+5,5,Ac - 5.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),1904,13.98,0.217,0.208,2774,3.59
+6,6,Ac - 6.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),1865,10.94,0.160,0.340,3900,4.16
+7,7,Ac - 7.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),1847,11.23,0.227,0.305,4223,4.44
+8,8,Ac - 8.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),1964,10.98,0.212,0.201,4250,5.02
+9,margin,Ac - 9.d,LC 15-08-13_17,LR3,Kimberley,Intitut Islands (4/5),2201,12.60,0.203,0.264,4057,4.18
+1,core,Cb - 1.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),2274,12.01,0.189,0.335,2123,2.67
+2,2,Cb - 2.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),3019,30.73,0.187,0.283,2299,5.61
+3,3,Cb - 3.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),2252,17.53,0.157,0.187,2364,1.82
+4,4,Cb - 4.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),2097,12.31,0.171,0.141,2685,1.77
+5,5,Cb - 5.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1852,9.95,0.170,0.141,3348,2.71
+6,6,Cb - 6.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1802,10.32,0.146,0.173,2978,2.34
+7,7,Cb - 7.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1781,9.09,0.189,0.154,3791,2.72
+8,8,Cb - 8.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1603,9.00,0.176,0.140,4480,3.25
+9,9,Cb - 9.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1651,8.89,0.183,0.151,4384,3.21
+10,10,Cb - 10.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1572,8.77,0.137,0.120,4296,3.31
+11,11,Cb - 11.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1648,8.58,0.160,0.150,4888,3.52
+12,12,Cb - 12.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1554,8.47,0.165,0.161,5096,4.05
+13,13,Cb - 13.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1675,8.52,0.137,0.142,5186,4.14
+14,margin,Cb - 14.d,LC 15-08-13_24,LR4,Kimberley,Intitut Islands (4/5),1507,8.09,0.157,0.157,4747,3.57
+1,core,Aa - 1.d,LC-N2-10,MG2,Gascoyne,Milyering,2502,13.61,0.250,0.932,2225,1.51
+2,2,Aa - 2.d,LC-N2-10,MG2,Gascoyne,Milyering,2818,30.66,0.266,0.267,1724,1.74
+3,3,Aa - 3.d,LC-N2-10,MG2,Gascoyne,Milyering,2469,26.85,0.237,0.287,1720,1.29
+4,4,Aa - 4.d,LC-N2-10,MG2,Gascoyne,Milyering,2195,17.01,0.217,0.227,2139,1.76
+5,5,Aa - 5.d,LC-N2-10,MG2,Gascoyne,Milyering,2168,15.78,0.204,0.227,2491,2.00
+6,6,Aa - 6.d,LC-N2-10,MG2,Gascoyne,Milyering,1940,13.84,0.232,0.247,2292,1.49
+7,7,Aa - 7.d,LC-N2-10,MG2,Gascoyne,Milyering,1795,13.62,0.215,0.286,2462,1.44
+8,8,Aa - 8.d,LC-N2-10,MG2,Gascoyne,Milyering,1922,13.66,0.226,0.882,2745,1.65
+9,9,Aa - 9.d,LC-N2-10,MG2,Gascoyne,Milyering,1987,12.96,0.216,1.495,2765,1.82
+10,margin,Aa - 10.d,LC-N2-10,MG2,Gascoyne,Milyering,2206,13.06,0.201,2.760,2827,2.07
+1,core,He - 1.d,LC-N2-12,MG3,Gascoyne,Milyering,3578,57.60,0.181,0.496,2176,3.83
+2,2,He - 2.d,LC-N2-12,MG3,Gascoyne,Milyering,2286,14.57,0.168,0.401,2242,3.19
+3,3,He - 3.d,LC-N2-12,MG3,Gascoyne,Milyering,1931,13.58,0.159,0.512,2134,1.38
+4,4,He - 4.d,LC-N2-12,MG3,Gascoyne,Milyering,1816,12.51,0.176,0.525,2336,1.41
+5,5,He - 5.d,LC-N2-12,MG3,Gascoyne,Milyering,1759,12.38,0.182,0.546,2628,1.41
+6,margin,He - 6.d,LC-N2-12,MG3,Gascoyne,Milyering,1586,12.49,0.174,0.504,2821,1.82
+1,core,Gf - 1.d,LC-N2-14,MG4,Gascoyne,Milyering,3769,58.70,0.186,1.104,1627,2.28
+2,2,Gf - 2.d,LC-N2-14,MG4,Gascoyne,Milyering,3218,38.84,0.170,0.284,1910,2.57
+3,3,Gf - 3.d,LC-N2-14,MG4,Gascoyne,Milyering,2849,36.05,0.182,0.208,1748,2.30
+4,4,Gf - 4.d,LC-N2-14,MG4,Gascoyne,Milyering,2451,21.58,0.197,0.152,1779,1.88
+5,5,Gf - 5.d,LC-N2-14,MG4,Gascoyne,Milyering,2348,19.75,0.172,0.234,2185,1.82
+6,margin,Gf - 6.d,LC-N2-14,MG4,Gascoyne,Milyering,2509,17.08,0.159,0.281,2495,2.04
+1,core,Ee - 1.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),3155,56.80,0.178,1.065,1675,1.73
+2,2,Ee - 2.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2891,40.70,0.155,0.286,1695,2.01
+3,3,Ee - 3.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2594,27.03,0.177,0.241,2180,3.07
+4,4,Ee - 4.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2810,26.90,0.228,0.273,2201,2.85
+5,5,Ee - 5.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2273,19.46,0.166,0.185,2460,4.46
+6,6,Ee - 6.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2007,13.35,0.163,0.206,3018,4.17
+7,7,Ee - 7.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2000,15.30,0.154,0.233,2734,3.93
+8,8,Ee - 8.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),1989,14.04,0.178,0.325,3012,4.86
+9,9,Ee - 9.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),1965,15.10,0.183,0.167,2564,3.63
+10,10,Ee - 10.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),1880,13.10,0.193,0.247,3530,5.06
+11,11,Ee - 11.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),1937,13.41,0.180,0.291,3329,5.18
+12,12,Ee - 12.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),1920,14.05,0.187,0.173,3040,4.29
+13,13,Ee - 13.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),1859,12.26,0.180,0.187,3677,6.89
+14,margin,Ee - 14.d,LC 12-09-13_01,MR1,Kimberley,Camden Sound (3/3),2030,19.18,0.272,0.240,3715,7.05
+1,core,Jd - 1.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),3524,73.40,0.159,0.373,2058,6.49
+2,2,Jd - 2.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),2015,13.42,0.185,0.454,3273,3.48
+3,3,Jd - 3.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),2027,13.73,0.192,0.338,2782,2.38
+4,4,Jd - 4.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),1791,12.08,0.248,0.458,3419,2.45
+5,5,Jd - 5.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),1721,10.84,0.236,0.501,3708,2.55
+6,6,Jd - 6.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),1677,10.80,0.196,0.623,4097,2.78
+7,7,Jd - 7.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),1743,10.63,0.228,0.649,3466,2.19
+8,margin,Jd - 8.d,LC 12-09-14_01,MR2,Kimberley,Camden Sound (3/3),1700,12.05,0.226,0.548,3830,2.89
+1,core,Fe - 1.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),3230,48.04,0.168,1.430,2016,2.34
+2,2,Fe - 2.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),2209,15.93,0.155,0.284,2504,8.82
+3,3,Fe - 3.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),1863,12.38,0.171,0.210,2905,6.57
+4,4,Fe - 4.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),2023,13.27,0.175,0.232,2775,5.39
+5,5,Fe - 5.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),1767,10.05,0.144,0.252,2945,2.17
+6,6,Fe - 6.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),1726,9.54,0.166,0.230,3266,2.54
+7,margin,Fe - 7.d,LC 12-09-14_10,MR4,Kimberley,Camden Sound (3/3),1700,36.30,Below LOD,3.090,3540,7.10
+1,core,Slide19 -NG1 - 01.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),2892,23.68,0.060,1.036,2295,12.55
+2,2,Slide19 -NG1 - 02.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1645,9.68,0.032,0.282,2804,2.50
+3,3,Slide19 -NG1 - 03.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1572,8.87,0.024,0.214,2988,2.77
+4,4,Slide19 -NG1 - 04.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1453,7.73,0.027,0.169,3392,3.61
+5,5,Slide19 -NG1 - 05.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1456,8.22,0.032,0.199,3481,3.15
+6,6,Slide19 -NG1 - 06.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1480,8.35,0.037,0.170,3459,2.98
+7,7,Slide19 -NG1 - 07.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1457,8.00,0.037,0.162,3519,2.64
+8,margin,Slide19 -NG1 - 08.d,LC 12-09-12_01,NG1,Kimberley,Ngalanguru Island (2/5),1447,12.13,0.033,0.129,3633,3.41
+1,core,Slide20 -NG2 - 01.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),3041,49.00,0.041,0.275,1805,8.61
+2,2,Slide20 -NG2 - 02.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1899,13.26,0.040,0.088,1930,3.59
+3,3,Slide20 -NG2 - 03.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1697,8.41,0.028,0.076,2506,2.95
+4,4,Slide20 -NG2 - 04.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1701,9.55,0.036,0.075,2537,2.46
+5,5,Slide20 -NG2 - 05.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1386,6.91,0.044,0.078,3398,2.73
+6,6,Slide20 -NG2 - 06.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1291,6.83,0.100,0.094,3285,2.44
+7,7,Slide20 -NG2 - 07.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1341,7.40,0.034,0.055,2820,2.13
+8,8,Slide20 -NG2 - 08.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1213,6.66,0.044,0.085,3371,2.56
+9,9,Slide20 -NG2 - 09.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1281,6.80,0.029,0.103,3433,2.64
+10,10,Slide20 -NG2 - 10.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1189,6.56,0.032,0.133,3125,2.17
+11,margin,Slide20 -NG2 - 11.d,LC 12-09-12_04,NG2,Kimberley,Ngalanguru Island (2/5),1128,6.63,0.034,0.087,3742,2.93
+1,core,Slide19 -NG3 - 01.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),3296,67.90,0.039,0.320,1833,1.49
+2,2,Slide19 -NG3 - 02.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),2056,15.77,0.035,0.083,1870,4.12
+3,3,Slide19 -NG3 - 03.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1866,14.45,0.048,0.090,2169,2.83
+4,4,Slide19 -NG3 - 04.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1638,8.78,0.029,0.142,2556,2.62
+5,5,Slide19 -NG3 - 05.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1591,9.67,0.240,0.450,2632,3.24
+6,6,Slide19 -NG3 - 06.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1580,8.24,0.035,0.160,2649,2.31
+7,7,Slide19 -NG3 - 07.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1504,7.85,0.029,0.142,2778,2.22
+8,8,Slide19 -NG3 - 08.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1628,7.88,0.033,0.154,2876,2.44
+9,9,Slide19 -NG3 - 09.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1457,7.60,0.048,0.160,3144,2.16
+10,margin,Slide19 -NG3 - 10.d,LC 12-09-12_02,NG3,Kimberley,Ngalanguru Island (2/5),1474,7.23,0.047,0.172,3002,2.37
+1,core,Slide19 -NG4 - 01.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),3321,68.20,0.047,1.350,1561,1.33
+2,2,Slide19 -NG4 - 02.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),2394,17.36,0.081,0.177,2023,5.83
+3,3,Slide19 -NG4 - 03.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),2108,13.56,0.040,0.129,2165,4.16
+4,4,Slide19 -NG4 - 04.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1754,8.73,0.038,0.106,2384,2.33
+5,5,Slide19 -NG4 - 05.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1704,8.84,0.032,0.092,2433,2.02
+6,6,Slide19 -NG4 - 06.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1546,6.87,0.042,0.125,2611,2.20
+7,7,Slide19 -NG4 - 07.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1614,8.20,0.031,0.137,2690,2.15
+8,8,Slide19 -NG4 - 08.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1523,6.93,0.036,0.122,2823,2.10
+9,9,Slide19 -NG4 - 09.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1561,6.90,0.041,0.078,2862,2.10
+10,margin,Slide19 -NG4 - 10.d,LC 12-09-12_03,NG4,Kimberley,Ngalanguru Island (2/5),1628,7.10,0.031,0.104,2712,2.13
+1,core,Slide22 -NK1 - 01.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,2957,49.70,0.050,0.315,1768,3.08
+2,2,Slide22 -NK1 - 02.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1602,7.83,0.039,0.244,2807,2.75
+3,3,Slide22 -NK1 - 03.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1498,8.35,0.041,0.282,2823,2.81
+4,4,Slide22 -NK1 - 04.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1433,7.13,0.046,0.264,3112,3.31
+5,5,Slide22 -NK1 - 05.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1479,7.98,0.046,0.405,2685,1.93
+6,6,Slide22 -NK1 - 06.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1436,7.67,0.043,0.373,2919,1.92
+7,7,Slide22 -NK1 - 07.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1465,8.42,0.043,0.387,2690,1.81
+8,8,Slide22 -NK1 - 08.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1467,7.18,0.042,0.433,3023,2.07
+9,9,Slide22 -NK1 - 09.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1433,8.15,0.051,0.502,2838,1.91
+10,margin,Slide22 -NK1 - 10.d,LC 15-05-13_02,NK1,Kimberley,Ngamakoon Offshore,1416,7.59,0.045,0.520,2830,2.37
+1,core,Slide21 -NK4 - 01.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,2737,26.44,0.042,0.299,1598,1.19
+2,2,Slide21 -NK4 - 02.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,2524,28.50,0.032,0.324,1612,1.40
+3,3,Slide21 -NK4 - 03.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,2540,22.72,0.040,0.143,1585,1.16
+4,4,Slide21 -NK4 - 04.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,2306,21.12,0.033,0.113,1534,1.00
+5,5,Slide21 -NK4 - 05.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,1955,11.86,0.037,0.139,2012,1.52
+6,6,Slide21 -NK4 - 06.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,2050,10.29,0.038,0.220,2145,1.46
+7,7,Slide21 -NK4 - 07.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,1996,17.14,0.047,0.214,2027,1.70
+8,8,Slide21 -NK4 - 08.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,1999,14.69,0.052,0.194,1865,1.52
+9,9,Slide21 -NK4 - 09.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,1982,16.59,0.040,0.173,1814,1.50
+10,margin,Slide21 -NK4 - 10.d,LC 15-05-13_05,NK4,Kimberley,Ngamakoon Offshore,2018,16.16,0.046,0.196,2074,1.44
+1,core,Slide19 -PA1 - 01.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),3241,51.21,0.072,0.365,1725,5.73
+2,2,Slide19 -PA1 - 02.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),3134,45.22,0.038,0.203,1651,6.25
+3,3,Slide19 -PA1 - 03.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2885,42.68,0.031,0.143,1627,4.01
+4,4,Slide19 -PA1 - 04.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2560,24.73,0.035,0.109,1561,1.89
+5,5,Slide19 -PA1 - 05.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2588,22.98,0.037,0.089,1489,1.79
+6,6,Slide19 -PA1 - 06.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2419,18.58,0.034,0.087,1597,1.79
+7,7,Slide19 -PA1 - 07.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2279,16.72,0.037,0.090,1752,2.23
+8,8,Slide19 -PA1 - 08.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2180,11.28,0.029,0.087,2026,2.93
+9,9,Slide19 -PA1 - 09.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2577,22.11,0.048,0.095,1533,1.75
+10,margin,Slide19 -PA1 - 10.d,LC 15-08-11_02,PA1,Kimberley,Intitut Islands (3/5),2317,19.58,0.049,0.137,1773,2.07
+1,core,Slide20 -PA2 - 01.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),3065,32.30,0.029,0.376,1897,2.75
+2,2,Slide20 -PA2 - 02.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),2394,25.69,0.035,0.139,1722,3.93
+3,3,Slide20 -PA2 - 03.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),2406,28.66,0.026,0.140,1662,1.50
+4,4,Slide20 -PA2 - 04.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),2215,19.62,0.037,0.114,1855,2.46
+5,5,Slide20 -PA2 - 05.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),2022,10.94,0.035,0.136,2622,1.76
+6,6,Slide20 -PA2 - 06.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),2007,17.02,0.028,0.109,2198,2.11
+7,7,Slide20 -PA2 - 07.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),2102,12.86,0.031,0.105,2649,2.11
+8,8,Slide20 -PA2 - 08.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),1891,11.28,0.024,0.133,3154,2.14
+9,9,Slide20 -PA2 - 09.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),1815,9.98,0.038,0.165,3116,2.71
+10,margin,Slide20 -PA2 - 10.d,LC 15-08-11_03,PA2,Kimberley,Intitut Islands (3/5),1970,9.65,0.030,0.132,3121,2.67
+1,core,Slide19 -PA3 - 01.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),3224,29.63,0.043,0.298,2170,5.18
+2,2,Slide19 -PA3 - 02.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2764,46.97,0.040,0.117,1660,3.24
+3,3,Slide19 -PA3 - 03.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2743,36.75,0.034,0.117,1782,2.47
+4,4,Slide19 -PA3 - 04.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2445,29.66,0.025,0.102,1838,1.79
+5,5,Slide19 -PA3 - 05.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2436,21.54,0.047,0.122,1864,1.27
+6,6,Slide19 -PA3 - 06.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2450,18.08,0.035,0.095,1772,1.21
+7,7,Slide19 -PA3 - 07.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2326,21.63,0.036,0.111,2083,1.52
+8,8,Slide19 -PA3 - 08.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2247,18.20,0.038,0.183,2344,1.80
+9,9,Slide19 -PA3 - 09.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2146,14.56,0.031,0.118,2249,2.13
+10,margin,Slide19 -PA3 - 10.d,LC 15-08-11_01,PA3,Kimberley,Intitut Islands (3/5),2228,15.04,0.027,0.263,2152,1.61
+1,core,Slide22 -PA4 - 01.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),2878,39.04,0.030,0.317,1736,7.65
+2,2,Slide22 -PA4 - 02.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),2329,12.34,0.036,0.110,1824,16.61
+3,3,Slide22 -PA4 - 03.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1928,10.67,0.033,0.086,2047,4.74
+4,4,Slide22 -PA4 - 04.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1842,11.05,0.042,0.123,1713,2.21
+5,5,Slide22 -PA4 - 05.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1584,8.10,0.039,0.086,2402,2.36
+6,6,Slide22 -PA4 - 06.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1748,8.90,0.028,0.120,2351,2.39
+7,7,Slide22 -PA4 - 07.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1550,7.39,0.025,0.070,2496,1.93
+8,8,Slide22 -PA4 - 08.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1511,7.06,0.044,0.082,2477,1.59
+9,margin,Slide22 -PA4 - 09.d,LC 15-08-12_06,PA4,Kimberley,Intitut Islands (2/5),1405,6.52,0.031,0.081,2859,1.87
+1,core,Dd - 1.d,LC-P1-01,PI1,Pilbara,Passage Islands,3053,31.84,0.202,0.458,2261,3.65
+2,2,Dd - 2.d,LC-P1-01,PI1,Pilbara,Passage Islands,2429,22.17,0.185,0.318,2156,7.70
+3,3,Dd - 3.d,LC-P1-01,PI1,Pilbara,Passage Islands,2881,19.51,0.128,0.337,1947,1.96
+4,4,Dd - 4.d,LC-P1-01,PI1,Pilbara,Passage Islands,2316,26.29,0.156,0.226,2225,2.28
+5,5,Dd - 5.d,LC-P1-01,PI1,Pilbara,Passage Islands,2406,15.90,0.165,0.230,2463,1.99
+6,6,Dd - 6.d,LC-P1-01,PI1,Pilbara,Passage Islands,2475,20.58,0.166,0.204,2182,1.51
+7,7,Dd - 7.d,LC-P1-01,PI1,Pilbara,Passage Islands,2429,16.23,0.171,0.196,2327,1.65
+8,8,Dd - 8.d,LC-P1-01,PI1,Pilbara,Passage Islands,2444,15.69,0.157,0.249,3112,2.52
+9,margin,Dd - 9.d,LC-P1-01,PI1,Pilbara,Passage Islands,2439,28.39,0.219,0.347,3015,2.39
+1,core,Ga - 1.d,LC-P1-02,PI2,Pilbara,Passage Islands,3632,59.80,0.195,0.398,2171,3.29
+2,2,Ga - 2.d,LC-P1-02,PI2,Pilbara,Passage Islands,3124,50.47,0.192,0.238,2172,1.69
+3,3,Ga - 3.d,LC-P1-02,PI2,Pilbara,Passage Islands,2636,45.10,0.179,0.144,1552,0.96
+4,4,Ga - 4.d,LC-P1-02,PI2,Pilbara,Passage Islands,2814,28.17,0.170,0.203,1517,0.90
+5,5,Ga - 5.d,LC-P1-02,PI2,Pilbara,Passage Islands,2392,24.76,0.213,0.160,1792,0.99
+6,6,Ga - 6.d,LC-P1-02,PI2,Pilbara,Passage Islands,2424,19.24,0.179,0.178,2112,1.95
+7,7,Ga - 7.d,LC-P1-02,PI2,Pilbara,Passage Islands,2378,21.14,0.150,0.162,2678,2.04
+8,8,Ga - 8.d,LC-P1-02,PI2,Pilbara,Passage Islands,2286,18.28,0.179,0.187,2111,1.46
+9,9,Ga - 9.d,LC-P1-02,PI2,Pilbara,Passage Islands,2381,27.47,0.167,0.254,2685,2.17
+10,10,Ga - 10.d,LC-P1-02,PI2,Pilbara,Passage Islands,2110,18.48,0.170,0.179,2195,1.77
+11,margin,Ga - 11.d,LC-P1-02,PI2,Pilbara,Passage Islands,2094,30.10,0.184,0.216,2674,2.53
+1,core,Jb - 1.d,LC-P1-03,PI3,Pilbara,Passage Islands,3839,64.70,0.167,0.403,2320,1.81
+2,2,Jb - 2.d,LC-P1-03,PI3,Pilbara,Passage Islands,2575,21.61,0.183,0.364,2719,3.25
+3,3,Jb - 3.d,LC-P1-03,PI3,Pilbara,Passage Islands,2136,21.99,0.221,0.645,2940,3.34
+4,4,Jb - 4.d,LC-P1-03,PI3,Pilbara,Passage Islands,1951,22.22,0.174,0.521,3195,3.31
+5,5,Jb - 5.d,LC-P1-03,PI3,Pilbara,Passage Islands,1808,19.90,0.180,0.491,3761,3.56
+6,6,Jb - 6.d,LC-P1-03,PI3,Pilbara,Passage Islands,1866,23.95,0.201,0.584,3512,2.76
+7,7,Jb - 7.d,LC-P1-03,PI3,Pilbara,Passage Islands,1846,26.81,0.203,0.845,3904,3.18
+8,8,Jb - 8.d,LC-P1-03,PI3,Pilbara,Passage Islands,1863,34.45,0.190,0.693,3942,3.51
+9,margin,Jb - 9.d,LC-P1-03,PI3,Pilbara,Passage Islands,1691,37.34,0.175,0.506,3929,5.00
+1,core,Cf - 1.d,LC-ON-01,PO1,Pilbara,Paroo,3998,158.40,0.181,0.374,1934,10.80
+2,2,Cf - 2.d,LC-ON-01,PO1,Pilbara,Paroo,2839,24.54,0.161,0.210,1443,5.84
+3,3,Cf - 3.d,LC-ON-01,PO1,Pilbara,Paroo,2604,15.21,0.172,0.162,1653,2.37
+4,4,Cf - 4.d,LC-ON-01,PO1,Pilbara,Paroo,2472,22.60,0.159,0.162,2048,2.07
+5,5,Cf - 5.d,LC-ON-01,PO1,Pilbara,Paroo,2098,21.64,0.194,0.118,2892,1.96
+6,margin,Cf - 6.d,LC-ON-01,PO1,Pilbara,Paroo,1760,77.70,Below LOD,1.060,2640,3.80
+1,core,Eb - 1.d,LC-ON-02,PO2,Pilbara,Paroo,3406,55.80,0.211,0.572,2109,1.53
+2,2,Eb - 2.d,LC-ON-02,PO2,Pilbara,Paroo,3062,29.71,0.191,0.385,1881,14.44
+3,3,Eb - 3.d,LC-ON-02,PO2,Pilbara,Paroo,2082,18.93,0.200,0.255,2322,2.22
+4,margin,Eb - 4.d,LC-ON-02,PO2,Pilbara,Paroo,1801,24.47,7.100,0.813,2938,3.29
+1,core,Hb - 1.d,LC-ON-03,PO3,Pilbara,Paroo,3846,59.50,0.225,0.582,2191,2.46
+2,2,Hb - 2.d,LC-ON-03,PO3,Pilbara,Paroo,2997,47.10,0.158,0.285,2080,2.21
+3,3,Hb - 3.d,LC-ON-03,PO3,Pilbara,Paroo,2640,33.87,0.141,0.188,1898,1.86
+4,4,Hb - 4.d,LC-ON-03,PO3,Pilbara,Paroo,2398,17.76,0.177,0.202,1959,3.32
+5,5,Hb - 5.d,LC-ON-03,PO3,Pilbara,Paroo,1933,15.08,0.159,0.190,2170,3.31
+6,6,Hb - 6.d,LC-ON-03,PO3,Pilbara,Paroo,2024,11.19,0.180,0.172,3107,2.80
+7,7,Hb - 7.d,LC-ON-03,PO3,Pilbara,Paroo,1873,13.14,0.183,0.155,2610,2.41
+8,margin,Hb - 8.d,LC-ON-03,PO3,Pilbara,Paroo,1732,12.80,0.168,0.148,3061,2.46
+1,core,Fb - 1.d,LC-ON-04,PO4,Pilbara,Paroo,3282,50.10,0.137,1.468,1944,2.55
+2,2,Fb - 2.d,LC-ON-04,PO4,Pilbara,Paroo,2732,27.40,0.245,0.278,1667,6.51
+3,3,Fb - 3.d,LC-ON-04,PO4,Pilbara,Paroo,2270,14.15,0.224,0.648,2494,4.06
+4,4,Fb - 4.d,LC-ON-04,PO4,Pilbara,Paroo,1865,17.58,0.189,1.000,2703,3.00
+5,5,Fb - 5.d,LC-ON-04,PO4,Pilbara,Paroo,1843,18.41,0.189,1.563,3240,4.14
+6,6,Fb - 6.d,LC-ON-04,PO4,Pilbara,Paroo,1784,19.92,0.173,1.510,3396,4.26
+7,7,Fb - 7.d,LC-ON-04,PO4,Pilbara,Paroo,1759,18.47,0.186,1.048,3619,3.85
+8,8,Fb - 8.d,LC-ON-04,PO4,Pilbara,Paroo,1797,22.08,0.178,1.510,3884,4.75
+9,9,Fb - 9.d,LC-ON-04,PO4,Pilbara,Paroo,1852,28.11,0.168,1.684,3823,4.33
+10,10,Fb - 10.d,LC-ON-04,PO4,Pilbara,Paroo,1825,20.30,0.161,1.096,3739,4.58
+11,11,Fb - 11.d,LC-ON-04,PO4,Pilbara,Paroo,1769,31.80,0.171,1.940,3595,3.90
+12,12,Fb - 12.d,LC-ON-04,PO4,Pilbara,Paroo,1890,35.40,Below LOD,5.100,3500,4.71
+13,margin,Fb - 13.d,LC-ON-04,PO4,Pilbara,Paroo,Below LOD,106.00,48.000,380.000,9800,Below LOD
+1,core,Slide21 -RB1 - 01.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,3300,51.00,0.041,0.328,2010,23.63
+2,2,Slide21 -RB1 - 02.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,2873,32.23,0.059,0.425,1797,2.64
+3,3,Slide21 -RB1 - 03.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,2350,22.77,0.041,0.171,1977,3.82
+4,4,Slide21 -RB1 - 04.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,1912,13.57,0.046,0.127,2163,2.82
+5,5,Slide21 -RB1 - 05.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,1848,20.16,0.053,0.212,2451,2.47
+6,6,Slide21 -RB1 - 06.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,1699,24.44,0.072,0.284,2805,2.83
+7,7,Slide21 -RB1 - 07.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,1617,33.09,0.052,0.184,2789,2.02
+8,margin,Slide21 -RB1 - 08.d,LC-EX1-01,RB1,Gascoyne,Roberts Island,1584,41.87,0.056,0.231,2693,1.99
+1,core,Slide22 -RB2 - 01.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,3274,52.77,0.054,0.490,1540,2.69
+2,2,Slide22 -RB2 - 02.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,2625,39.70,0.090,0.377,1709,5.58
+3,3,Slide22 -RB2 - 03.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,2402,38.40,0.082,0.269,2018,9.50
+4,4,Slide22 -RB2 - 04.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,1722,21.50,0.049,0.170,2126,1.89
+5,5,Slide22 -RB2 - 05.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,1599,25.31,0.074,0.244,3046,2.60
+6,6,Slide22 -RB2 - 06.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,1542,28.97,0.086,0.296,3136,1.84
+7,margin,Slide22 -RB2 - 07.d,LC-EX1-10,RB2,Gascoyne,Roberts Island,1573,42.72,0.093,0.382,2894,1.72
+1,core,Slide20 -RB3 - 01.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,2830,50.80,0.540,0.770,1803,2.87
+2,2,Slide20 -RB3 - 02.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,2491,15.94,0.169,0.191,2064,3.27
+3,3,Slide20 -RB3 - 03.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,2220,11.68,0.103,0.139,2099,1.63
+4,4,Slide20 -RB3 - 04.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,2057,14.40,0.390,0.260,2227,1.45
+5,5,Slide20 -RB3 - 05.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,1853,11.94,0.080,0.104,2912,1.39
+6,6,Slide20 -RB3 - 06.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,1911,15.05,0.119,0.114,2260,1.65
+7,7,Slide20 -RB3 - 07.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,1647,13.20,0.063,0.095,3442,2.69
+8,8,Slide20 -RB3 - 08.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,1649,18.83,0.065,0.102,3362,2.57
+9,9,Slide20 -RB3 - 09.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,1647,20.92,0.118,0.169,3245,2.22
+10,margin,Slide20 -RB3 - 10.d,LC-EX1-02,RB3,Gascoyne,Roberts Island,1610,25.55,0.129,0.125,2797,2.09
+1,core,Slide22 -KC4 - 01.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,2836,36.78,0.110,0.181,1770,2.56
+2,2,Slide22 -KC4 - 02.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,2268,16.90,0.060,0.160,2043,3.77
+3,3,Slide22 -KC4 - 03.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,2150,15.66,0.091,0.144,2028,3.53
+4,4,Slide22 -KC4 - 04.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,1901,13.08,0.050,0.086,2342,3.60
+5,5,Slide22 -KC4 - 05.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,1734,9.78,0.047,0.081,3380,4.87
+6,6,Slide22 -KC4 - 06.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,1706,12.17,0.070,0.086,2277,2.13
+7,7,Slide22 -KC4 - 07.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,1695,16.46,0.052,0.075,2357,2.12
+8,margin,Slide22 -KC4 - 08.d,LC-EX1-03,RB4,Gascoyne,Roberts Island,1549,12.54,0.095,0.145,2497,1.81
+1,core,Ff - 1.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),3527,79.40,0.176,0.980,1796,1.85
+2,2,Ff - 2.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),2280,18.36,0.195,0.897,1985,2.42
+3,3,Ff - 3.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),1917,18.41,0.158,0.261,2349,2.23
+4,4,Ff - 4.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),2000,19.07,0.199,0.226,2535,2.63
+5,5,Ff - 5.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),2018,17.35,0.147,0.212,2888,3.15
+6,6,Ff - 6.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),1996,13.86,0.178,0.262,2746,3.45
+7,7,Ff - 7.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),1922,12.26,0.177,0.243,3284,5.13
+8,8,Ff - 8.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),1950,12.08,0.233,0.362,3518,5.21
+9,9,Ff - 9.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),1964,12.31,0.219,0.315,3616,4.66
+10,margin,Ff - 10.d,LC 13-09-11_01W,RP1,Kimberley,Raft Point (07/10),2740,56.00,Below LOD,9.600,3110,4.30
+1,core,Ca - 1.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),3923,59.30,0.240,0.621,2329,2.34
+2,2,Ca - 2.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),2607,21.79,Below LOD,0.172,2164,3.38
+3,3,Ca - 3.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),2209,14.51,0.169,0.140,2489,2.72
+4,4,Ca - 4.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),2038,13.82,0.166,0.145,2598,2.04
+5,5,Ca - 5.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),1908,13.42,0.175,0.134,2841,2.34
+6,6,Ca - 6.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),1836,10.95,0.176,0.125,2757,2.74
+7,7,Ca - 7.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),1741,9.64,0.166,0.146,2966,3.02
+8,margin,Ca - 8.d,LC 13-09-11_03W,RP2,Kimberley,Raft Point (07/10),1774,9.48,0.161,0.111,3241,4.44
+1,core,Fa - 1.d,LC-R1F-07,RY1,Pilbara,Rosemary Island,3728,62.47,0.223,1.375,1948,6.02
+2,2,Fa - 2.d,LC-R1F-07,RY1,Pilbara,Rosemary Island,2943,25.83,0.177,0.306,1841,1.60
+3,3,Fa - 3.d,LC-R1F-07,RY1,Pilbara,Rosemary Island,2503,20.79,0.156,0.350,1864,1.21
+4,4,Fa - 4.d,LC-R1F-07,RY1,Pilbara,Rosemary Island,2238,15.99,0.188,0.351,1958,1.29
+5,margin,Fa - 5.d,LC-R1F-07,RY1,Pilbara,Rosemary Island,1860,9.49,0.167,0.459,2594,1.56
+1,core,Db - 1.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,3552,63.50,0.284,0.599,2227,4.77
+2,2,Db - 2.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,3065,30.43,0.298,0.493,2124,4.42
+3,3,Db - 3.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,2530,23.35,0.443,0.550,2270,1.85
+4,4,Db - 4.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,2052,24.07,0.408,0.436,2460,2.05
+5,5,Db - 5.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,1740,26.30,0.444,0.708,3520,1.89
+6,6,Db - 6.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,1982,29.50,0.515,0.782,3600,1.94
+7,7,Db - 7.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,1735,33.70,0.517,0.833,3500,2.09
+8,8,Db - 8.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,1748,47.40,0.555,0.511,3399,2.14
+9,margin,Db - 9.d,LC-R1F-02,RY2,Pilbara,Rosemary Island,1632,50.50,0.650,1.540,3980,3.33
+1,core,Ie - 1.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,3450,68.90,0.297,0.693,2043,6.22
+2,2,Ie - 2.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,1797,18.12,0.210,0.266,1950,2.56
+3,3,Ie - 3.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,2320,22.57,0.159,0.325,1975,4.95
+4,4,Ie - 4.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,2734,17.79,0.165,0.348,2408,3.81
+5,5,Ie - 5.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,2657,27.25,0.157,0.345,2169,2.73
+6,6,Ie - 6.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,2486,20.21,0.186,0.266,2476,3.42
+7,margin,Ie - 7.d,LC-R1F-03,RY3,Pilbara,Rosemary Island,2411,19.97,0.201,0.336,2793,2.85
+1,core,Slide19 -RY9 - 01.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,2982,49.97,0.039,0.249,1607,2.55
+2,2,Slide19 -RY9 - 02.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,2589,33.40,0.032,0.146,1985,2.99
+3,3,Slide19 -RY9 - 03.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,2409,30.80,0.035,0.119,1858,1.26
+4,4,Slide19 -RY9 - 04.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,2276,16.08,0.033,0.083,1772,1.13
+5,5,Slide19 -RY9 - 05.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,2115,16.60,0.030,0.092,1968,1.23
+6,6,Slide19 -RY9 - 06.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1858,13.19,0.040,0.110,2253,1.49
+7,7,Slide19 -RY9 - 07.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1681,10.44,0.040,0.102,2440,1.87
+8,8,Slide19 -RY9 - 08.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1728,9.99,0.036,0.102,2373,1.64
+9,9,Slide19 -RY9 - 09.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1690,9.59,0.032,0.111,2379,1.82
+10,10,Slide19 -RY9 - 10.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1757,10.22,0.027,0.126,2585,2.06
+11,11,Slide19 -RY9 - 11.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1722,10.39,0.038,0.299,3080,2.53
+12,margin,Slide19 -RY9 - 12.d,LC-R1F-05,RY9,Pilbara,Rosemary Island,1840,12.63,0.039,0.145,2765,2.42
+1,core,Ae - 1.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),3462,64.40,0.185,0.695,1849,2.27
+2,2,Ae - 2.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),2085,14.03,0.211,0.257,2163,2.07
+3,3,Ae - 3.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),1950,17.15,0.185,0.193,2431,2.23
+4,4,Ae - 4.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),2082,25.42,0.190,0.195,2203,2.14
+5,5,Ae - 5.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),2214,18.35,0.232,0.176,2638,2.65
+6,6,Ae - 6.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),2189,14.91,0.224,0.228,2928,2.85
+7,7,Ae - 7.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),1880,14.08,0.182,0.253,3027,2.89
+8,margin,Ae - 8.d,LC 14-08-14_01,SB1,Kimberley,Shenton Bluff (1/4),2231,17.07,0.215,0.383,3454,3.50
+1,core,Hc - 1.d,LC 14-08-14_02,SB2,Kimberley,Shenton Bluff (1/4),3778,69.60,0.181,0.502,2211,8.96
+2,2,Hc - 2.d,LC 14-08-14_02,SB2,Kimberley,Shenton Bluff (1/4),3012,27.36,0.168,0.344,2445,9.42
+3,3,Hc - 3.d,LC 14-08-14_02,SB2,Kimberley,Shenton Bluff (1/4),2228,15.98,0.140,0.217,2512,4.45
+4,4,Hc - 4.d,LC 14-08-14_02,SB2,Kimberley,Shenton Bluff (1/4),1785,13.88,0.195,0.172,2812,3.48
+5,margin,Hc - 5.d,LC 14-08-14_02,SB2,Kimberley,Shenton Bluff (1/4),1728,12.00,0.206,0.161,2864,2.51
+1,core,Ib - 1.d,LC 14-08-14_03,SB3,Kimberley,Shenton Bluff (1/4),3615,68.50,0.164,0.583,1837,5.28
+2,2,Ib - 2.d,LC 14-08-14_03,SB3,Kimberley,Shenton Bluff (1/4),2673,24.11,0.194,0.354,2282,7.39
+3,3,Ib - 3.d,LC 14-08-14_03,SB3,Kimberley,Shenton Bluff (1/4),2044,17.00,0.176,0.194,2653,4.67
+4,4,Ib - 4.d,LC 14-08-14_03,SB3,Kimberley,Shenton Bluff (1/4),1871,12.09,0.190,0.158,3468,2.86
+5,margin,Ib - 5.d,LC 14-08-14_03,SB3,Kimberley,Shenton Bluff (1/4),1763,116.10,0.402,1.190,3634,3.67
+1,core,Gc - 1.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),3578,59.10,0.206,0.532,2257,1.88
+2,2,Gc - 2.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),2708,36.79,0.203,0.184,2005,2.21
+3,3,Gc - 3.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),3000,38.50,0.166,0.221,2023,2.15
+4,4,Gc - 4.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),2357,32.74,0.163,0.146,1980,1.77
+5,5,Gc - 5.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),2378,18.92,0.173,0.195,2058,3.01
+6,6,Gc - 6.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),2092,23.27,0.156,0.143,1812,1.25
+7,7,Gc - 7.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),1981,18.05,0.191,0.145,1922,1.32
+8,8,Gc - 8.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),2301,17.94,0.183,0.201,2310,2.60
+8,margin,Gc - 9.d,LC 14-08-14_04,SB4,Kimberley,Shenton Bluff (1/4),2267,18.59,0.177,0.201,2189,1.95
+1,core,Jc - 1.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),3639,80.70,0.151,0.424,1992,4.05
+2,2,Jc - 2.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),2693,25.41,0.187,0.220,2341,9.57
+3,3,Jc - 3.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),2197,18.07,0.208,0.221,2517,3.52
+4,4,Jc - 4.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),1767,14.92,0.191,0.221,3112,3.89
+5,5,Jc - 5.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),1791,12.78,0.190,0.302,3139,3.58
+6,6,Jc - 6.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),1796,11.98,0.225,0.270,3540,4.68
+7,margin,Jc - 7.d,LC 13-09-06_06W,SI2,Kimberley,Samson Inlet S (2/2),1632,12.60,0.184,0.369,3805,5.33
+1,core,Hf - 1.d,LC 13-09-06_13W,SI3,Kimberley,Samson Inlet N (3/4),3269,45.80,0.219,1.225,2341,5.70
+2,2,Hf - 2.d,LC 13-09-06_13W,SI3,Kimberley,Samson Inlet N (3/4),2631,26.13,0.174,0.230,1994,1.92
+3,3,Hf - 3.d,LC 13-09-06_13W,SI3,Kimberley,Samson Inlet N (3/4),2190,15.25,0.154,0.548,2685,2.79
+4,4,Hf - 4.d,LC 13-09-06_13W,SI3,Kimberley,Samson Inlet N (3/4),1757,13.26,0.170,0.357,2949,3.15
+5,5,Hf - 5.d,LC 13-09-06_13W,SI3,Kimberley,Samson Inlet N (3/4),1679,12.37,0.174,0.338,3662,5.03
+6,margin,Hf - 6.d,LC 13-09-06_13W,SI3,Kimberley,Samson Inlet N (3/4),1618,59.00,0.224,1.320,4379,6.28
+1,core,Fc - 1.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),2559,19.55,0.165,0.325,2554,12.54
+2,2,Fc - 2.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1991,16.35,0.185,0.260,2368,3.92
+3,3,Fc - 3.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1681,11.51,0.224,0.367,3026,3.52
+4,4,Fc - 4.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1568,10.85,0.200,0.368,3487,3.18
+5,5,Fc - 5.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1574,10.89,0.163,0.435,3164,2.64
+6,6,Fc - 6.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1685,10.60,0.193,0.364,3190,2.55
+7,7,Fc - 7.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1514,11.07,0.179,0.383,3180,2.95
+8,8,Fc - 8.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1523,10.27,0.163,0.464,3904,3.50
+9,9,Fc - 9.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1489,10.18,0.183,0.488,4076,3.31
+10,10,Fc - 10.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1572,10.39,0.172,0.438,4095,3.22
+11,margin,Fc - 11.d,LC 13-09-06_19W,SI4,Kimberley,Samson Inlet N (1/4),1492,27.70,0.311,3.130,4027,3.51
+1,core,Bf - 1.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,3426,56.50,0.214,0.496,2312,3.40
+2,2,Bf - 2.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,2179,21.26,0.209,0.329,2452,2.25
+3,3,Bf - 3.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,2285,20.60,0.177,0.220,2372,2.80
+4,4,Bf - 4.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,2365,24.15,0.196,0.250,2004,2.42
+5,5,Bf - 5.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,2264,19.90,0.137,0.250,2277,2.66
+6,6,Bf - 6.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,2049,14.78,0.198,0.420,3172,3.10
+7,7,Bf - 7.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,1955,13.71,0.200,0.387,2589,2.20
+8,margin,Bf - 8.d,LC 12-09-10_05,SR1,Kimberley,Sale River Mouth,2563,21.17,0.210,0.576,3070,3.91
+1,core,Slide20 -TA3 - 01.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,2832,37.58,0.145,0.403,2132,2.79
+2,2,Slide20 -TA3 - 02.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,2074,13.85,0.035,0.096,1902,1.48
+3,3,Slide20 -TA3 - 03.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1992,12.93,0.035,0.105,2085,1.18
+4,4,Slide20 -TA3 - 04.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1815,9.09,0.044,0.081,2627,1.53
+5,5,Slide20 -TA3 - 05.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1731,10.34,0.047,0.082,2359,1.31
+6,6,Slide20 -TA3 - 06.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1888,10.51,0.048,0.090,2231,1.27
+7,7,Slide20 -TA3 - 07.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1718,6.85,0.042,0.074,2639,1.30
+8,8,Slide20 -TA3 - 08.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1779,8.54,0.043,0.070,2395,1.37
+9,9,Slide20 -TA3 - 09.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1782,7.99,0.041,0.068,2469,1.46
+10,10,Slide20 -TA3 - 10.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1572,6.26,0.045,0.075,2944,1.68
+11,margin,Slide20 -TA3 - 11.d,LC 14-08-12_04,TA3,Kimberley,Tallon Island,1678,9.18,0.172,0.254,2667,1.74
+1,core,Slide20 -FA4 - 01.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,3123,49.83,0.078,0.280,1975,4.02
+2,2,Slide20 -FA4 - 02.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1992,10.16,0.027,0.075,2041,1.22
+3,3,Slide20 -FA4 - 03.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1755,12.24,0.032,0.082,2241,1.21
+4,4,Slide20 -FA4 - 04.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1705,12.25,0.038,0.069,2018,1.00
+5,5,Slide20 -FA4 - 05.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1648,10.84,0.034,0.059,2177,1.01
+6,6,Slide20 -FA4 - 06.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1683,9.49,0.041,0.065,2221,1.10
+7,7,Slide20 -FA4 - 07.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1649,8.08,0.041,0.058,2199,0.99
+8,8,Slide20 -FA4 - 08.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1515,8.59,0.035,0.055,2288,1.18
+9,margin,Slide20 -FA4 - 09.d,LC 14-08-12_05,TA4,Kimberley,Tallon Island,1567,8.75,0.042,0.076,2150,1.00
+1,core,Slide19 -YA5 - 01.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,3316,66.39,0.028,0.372,1605,2.27
+2,2,Slide19 -YA5 - 02.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2564,27.41,0.044,0.100,1779,3.37
+3,3,Slide19 -YA5 - 03.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2419,23.09,0.035,0.096,2008,2.82
+4,4,Slide19 -YA5 - 04.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2204,10.16,0.028,0.115,2123,2.34
+5,5,Slide19 -YA5 - 05.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2099,13.18,0.034,0.103,2132,1.77
+6,6,Slide19 -YA5 - 06.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2061,11.68,0.050,0.124,2445,1.65
+7,7,Slide19 -YA5 - 07.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2008,13.21,0.037,0.127,2267,1.58
+8,8,Slide19 -YA5 - 08.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,1933,11.44,0.037,0.090,2438,1.80
+9,9,Slide19 -YA5 - 09.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2102,11.53,0.091,0.164,2846,2.47
+10,10,Slide19 -YA5 - 10.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,2056,11.29,0.040,0.195,2638,2.09
+11,margin,Slide19 -YA5 - 11.d,LC 14-08-12_02,TA5,Kimberley,Tallon Island,1925,10.74,0.033,0.161,2498,1.88
+1,core,Slide20 -FA6 - 01.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,2880,37.85,0.043,0.429,1827,4.21
+2,2,Slide20 -FA6 - 02.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,2266,13.46,0.029,0.121,1752,5.08
+3,3,Slide20 -FA6 - 03.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,2004,10.31,0.037,0.106,1982,4.33
+4,4,Slide20 -FA6 - 04.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1861,10.42,0.041,0.110,2303,2.72
+5,5,Slide20 -FA6 - 05.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1740,10.71,0.044,0.110,2358,1.85
+6,6,Slide20 -FA6 - 06.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1704,6.80,0.040,0.072,2463,1.28
+7,7,Slide20 -FA6 - 07.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1612,8.16,0.045,0.089,2766,1.50
+8,8,Slide20 -FA6 - 08.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1700,7.52,0.034,0.090,2540,1.38
+9,9,Slide20 -FA6 - 09.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1666,6.95,0.039,0.091,2611,1.52
+10,margin,Slide20 -FA6 - 10.d,LC 14-08-12_03,TA6,Kimberley,Tallon Island,1751,7.84,0.040,0.102,2498,1.53
+1,core,Slide22 -FH6 - 01.d,LC-T1F-05,TH6,Pilbara,Thevenard,2728,26.35,0.037,0.148,1466,1.41
+2,2,Slide22 -FH6 - 02.d,LC-T1F-05,TH6,Pilbara,Thevenard,2125,12.84,0.027,0.113,1816,1.47
+3,3,Slide22 -FH6 - 03.d,LC-T1F-05,TH6,Pilbara,Thevenard,1878,13.66,0.036,0.125,2047,4.85
+4,4,Slide22 -FH6 - 04.d,LC-T1F-05,TH6,Pilbara,Thevenard,1718,14.05,0.059,0.192,2382,4.05
+5,5,Slide22 -FH6 - 05.d,LC-T1F-05,TH6,Pilbara,Thevenard,1607,11.28,0.047,0.237,2887,3.14
+6,6,Slide22 -FH6 - 06.d,LC-T1F-05,TH6,Pilbara,Thevenard,1564,12.91,0.045,0.242,2530,2.14
+7,7,Slide22 -FH6 - 07.d,LC-T1F-05,TH6,Pilbara,Thevenard,1490,11.99,0.051,0.247,2634,2.23
+8,margin,Slide22 -FH6 - 08.d,LC-T1F-05,TH6,Pilbara,Thevenard,1464,11.26,0.052,0.328,2593,2.27
+1,core,Slide20 -FH7 - 01.d,LC-T1F-03,TH7,Pilbara,Thevenard,3162,60.59,0.046,0.372,1827,2.53
+2,2,Slide20 -FH7 - 02.d,LC-T1F-03,TH7,Pilbara,Thevenard,2337,12.98,0.032,0.083,2073,2.85
+3,3,Slide20 -FH7 - 03.d,LC-T1F-03,TH7,Pilbara,Thevenard,1941,8.23,0.035,0.092,2088,3.16
+4,4,Slide20 -FH7 - 04.d,LC-T1F-03,TH7,Pilbara,Thevenard,1947,9.89,0.032,0.112,1948,2.18
+5,5,Slide20 -FH7 - 05.d,LC-T1F-03,TH7,Pilbara,Thevenard,1804,9.63,0.036,0.159,2289,2.55
+6,6,Slide20 -FH7 - 06.d,LC-T1F-03,TH7,Pilbara,Thevenard,1626,8.50,0.039,0.215,2805,3.21
+7,margin,Slide20 -FH7 - 07.d,LC-T1F-03,TH7,Pilbara,Thevenard,1542,12.72,0.069,0.382,3822,2.50
+1,core,Slide20 -FH8 - 01.d,LC-T1F-07,TH8,Pilbara,Thevenard,3040,134.50,0.036,0.550,1673,2.30
+2,2,Slide20 -FH8 - 02.d,LC-T1F-07,TH8,Pilbara,Thevenard,2519,23.99,0.041,0.129,1720,1.38
+3,3,Slide20 -FH8 - 03.d,LC-T1F-07,TH8,Pilbara,Thevenard,2302,19.80,0.029,0.098,1544,2.54
+4,4,Slide20 -FH8 - 04.d,LC-T1F-07,TH8,Pilbara,Thevenard,2139,18.77,0.030,0.100,1739,3.09
+5,5,Slide20 -FH8 - 05.d,LC-T1F-07,TH8,Pilbara,Thevenard,1995,15.93,0.036,0.101,2146,2.17
+6,6,Slide20 -FH8 - 06.d,LC-T1F-07,TH8,Pilbara,Thevenard,2043,16.38,0.031,0.095,2023,2.33
+7,7,Slide20 -FH8 - 07.d,LC-T1F-07,TH8,Pilbara,Thevenard,2125,23.74,0.045,0.110,1855,2.29
+8,8,Slide20 -FH8 - 08.d,LC-T1F-07,TH8,Pilbara,Thevenard,2043,23.10,0.027,0.089,2163,3.56
+9,margin,Slide20 -FH8 - 09.d,LC-T1F-07,TH8,Pilbara,Thevenard,1704,34.41,0.034,0.095,2833,2.74
+1,core,Df - 1.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),3428,60.60,0.212,0.721,1780,1.77
+2,2,Df - 2.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),2638,37.30,0.215,0.213,1730,2.60
+3,3,Df - 3.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),2241,30.31,0.166,0.167,1683,1.91
+4,4,Df - 4.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),1895,19.44,0.181,0.147,1869,11.80
+5,5,Df - 5.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),1558,12.73,0.150,0.139,2158,15.75
+6,6,Df - 6.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),1375,10.87,0.154,0.149,2236,11.76
+7,7,Df - 7.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),1449,11.32,0.166,0.113,2382,13.03
+8,8,Df - 8.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),1600,10.52,0.181,0.202,2875,9.81
+9,9,Df - 9.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),1970,12.72,0.154,0.199,2711,14.26
+10,margin,Df - 10.d,LC 12-09-09_01,TI1,Kimberley,Woninjaba Islands E (03/12),2468,16.40,0.156,0.258,2407,8.44
+1,core,Ka - 1.d,LC-WM1-12,WM1,Pilbara,West Moore Island,3636,121.10,0.500,1.783,2371,5.68
+2,2,Ka - 2.d,LC-WM1-12,WM1,Pilbara,West Moore Island,2845,72.70,0.320,0.874,2235,8.41
+3,3,Ka - 3.d,LC-WM1-12,WM1,Pilbara,West Moore Island,2031,35.43,0.335,0.764,2542,4.24
+4,4,Ka - 4.d,LC-WM1-12,WM1,Pilbara,West Moore Island,2004,36.06,0.232,0.514,2243,2.80
+5,5,Ka - 5.d,LC-WM1-12,WM1,Pilbara,West Moore Island,1993,36.45,0.238,0.483,2786,2.29
+6,6,Ka - 6.d,LC-WM1-12,WM1,Pilbara,West Moore Island,1925,41.24,0.210,0.477,2811,2.26
+7,margin,Ka - 7.d,LC-WM1-12,WM1,Pilbara,West Moore Island,1840,47.70,0.318,0.951,3492,5.36
+1,core,Gd - 1.d,LC-WM1-13,WM2,Pilbara,West Moore Island,3784,91.40,0.178,0.848,2159,4.33
+2,2,Gd - 2.d,LC-WM1-13,WM2,Pilbara,West Moore Island,3137,49.80,0.202,0.321,2339,4.63
+3,3,Gd - 3.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2924,32.68,0.174,0.267,1836,1.88
+4,4,Gd - 4.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2773,21.88,0.186,0.203,2047,3.92
+5,5,Gd - 5.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2598,24.78,0.174,0.171,1907,2.37
+6,6,Gd - 6.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2726,22.04,0.176,0.273,2072,2.54
+7,7,Gd - 7.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2655,21.42,0.157,0.227,2431,2.93
+8,8,Gd - 8.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2733,25.89,0.168,0.392,3112,3.45
+9,margin,Gd - 9.d,LC-WM1-13,WM2,Pilbara,West Moore Island,2884,27.60,0.191,0.281,2848,3.15
+1,core,Hd - 1.d,LC-WM5-16,WM3,Pilbara,Depuch Island,3954,102.20,0.267,1.181,1894,4.58
+2,2,Hd - 2.d,LC-WM5-16,WM3,Pilbara,Depuch Island,3089,25.22,0.147,0.250,2061,3.56
+3,3,Hd - 3.d,LC-WM5-16,WM3,Pilbara,Depuch Island,2582,21.37,0.179,0.205,2262,2.46
+4,4,Hd - 4.d,LC-WM5-16,WM3,Pilbara,Depuch Island,2323,18.85,0.200,0.208,2308,2.79
+5,margin,Hd - 5.d,LC-WM5-16,WM3,Pilbara,Depuch Island,1885,21.95,0.158,0.228,2913,1.98
+1,core,Slide22 -WM5 - 01.d,LC-WM5-25,WM5,Pilbara,Depuch Island,3713,119.30,0.047,0.209,1749,5.00
+2,2,Slide22 -WM5 - 02.d,LC-WM5-25,WM5,Pilbara,Depuch Island,3027,21.47,0.032,0.107,2033,2.53
+3,3,Slide22 -WM5 - 03.d,LC-WM5-25,WM5,Pilbara,Depuch Island,3073,21.31,0.034,0.119,2179,3.73
+4,4,Slide22 -WM5 - 04.d,LC-WM5-25,WM5,Pilbara,Depuch Island,2783,22.36,0.040,0.099,2359,2.15
+5,5,Slide22 -WM5 - 05.d,LC-WM5-25,WM5,Pilbara,Depuch Island,2879,27.50,0.036,0.111,2013,1.84
+6,6,Slide22 -WM5 - 06.d,LC-WM5-25,WM5,Pilbara,Depuch Island,2716,47.90,0.041,0.111,2232,3.19
+7,7,Slide22 -WM5 - 07.d,LC-WM5-25,WM5,Pilbara,Depuch Island,2455,55.70,0.038,0.103,2320,2.15
+8,margin,Slide22 -WM5 - 08.d,LC-WM5-25,WM5,Pilbara,Depuch Island,2264,57.90,0.034,0.086,2638,1.76

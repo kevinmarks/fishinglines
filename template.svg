@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" width="{{width}}" height="{{height}}"  viewBox="0 0 {{width}} {{height}}" >
+<style>
+svg {background-color: white;} 
+polyline {stroke-linejoin:round; stroke:black; stroke-width:2; fill:white;}
+text {font: 16px sans-serif; fill:black;}
+</style>
+{% for label in labels %}
+<text x="{{label.across}}" y="{{label.down}}">{{label.text}}</text>
+{% endfor %}
+{% for line in lines %}
+<polyline transform="matrix(1 0 0 -1 {{line.across}} {{line.down}})" points="{{line.points}}"/>
+{% endfor %}
+</svg>
