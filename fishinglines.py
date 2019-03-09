@@ -51,7 +51,8 @@ def fish():
     line = (yield)
     fieldnames = line
     fishlist=[]
-    elements = ('Na23','Mg24','Ni60','Cu63','Sr88','Ba137')
+    elements = {'Na23':7,'Mg24':8,'Ni60':9,'Cu63':10,'Sr88':11,'Ba137':12}
+    
     ranges=dict([[element,{'min':1e10,'max':-1.0}] for element in elements])
     #print fieldnames
     try:
@@ -62,22 +63,13 @@ def fish():
             code=line[3]
             region=line[5]
             site=line[6]
-            Na23=pinfloat(line[7])
-            Mg24=pinfloat(line[8])
-            Ni60=pinfloat(line[9])
-            Cu63=pinfloat(line[10])
-            Sr88=pinfloat(line[11])
-            Ba137=pinfloat(line[12])
             if not fishlines.get(mycode,False):
-                fishlines[mycode] = {'code':code,'region':region,'site':site,
-                'Na23':[],'Mg24':[],'Ni60':[],'Cu63':[],'Sr88':[],'Ba137':[]}
+                fishlines[mycode] = {'code':code,'region':region,'site':site}
+                for e in elements:
+                    fishlines[mycode][e]=[]
                 fishlist.append(mycode)
-            fishlines[mycode]['Na23'].append(Na23)
-            fishlines[mycode]['Mg24'].append(Mg24)
-            fishlines[mycode]['Ni60'].append(Ni60)
-            fishlines[mycode]['Cu63'].append(Cu63)
-            fishlines[mycode]['Sr88'].append(Sr88)
-            fishlines[mycode]['Ba137'].append(Ba137)
+            for e in elements:
+                fishlines[mycode][e].append(pinfloat(line[elements[e]]))
             for e in elements:
                 if fishlines[mycode][e][-1]:
                     ranges[e]['max']=max(ranges[e]['max'],fishlines[mycode][e][-1])
@@ -105,6 +97,6 @@ def fish():
         
 
 if __name__ == '__main__':
-    readallcsvfiles('*.csv',
+    readallcsvfiles('lc.csv',
         fish() #output
         )
