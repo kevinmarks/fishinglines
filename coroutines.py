@@ -69,7 +69,7 @@ def readSQLquery(query, target):
     connection = pymysql.connect(host='127.0.0.1',
                                  user='root',
                                  password='root',
-                                 db='vulcan',
+                                 db='fish',
                                  port = 8889,
                                  charset='latin1',
                                  cursorclass=pymysql.cursors.SSDictCursor)
